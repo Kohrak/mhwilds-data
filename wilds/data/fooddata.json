@@ -1,0 +1,271 @@
+{
+    "rations": [
+        {
+            "type": "Meat",
+            "icon": "Ingredient Meat",
+            "color": "Red",
+            "time": 30,
+            "health": 50,
+            "stamina": 150,
+            "attack": 2,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": [],
+            "random_table": []
+        },
+        {
+            "type": "Fish",
+            "icon": "Fish",
+            "color": "Ultramarine",
+            "time": 30,
+            "health": 50,
+            "stamina": 150,
+            "attack": 0,
+            "defence": 4,
+            "attr_resist": 0,
+            "meal_skills": [],
+            "random_table": []
+        },
+        {
+            "type": "Veggies",
+            "icon": "Ingredient Vegetable",
+            "color": "Emerald",
+            "time": 30,
+            "health": 50,
+            "stamina": 150,
+            "attack": 0,
+            "defence": 2,
+            "attr_resist": 3,
+            "meal_skills": [],
+            "random_table": []
+        }
+    ],
+    "additional": {
+        "ITEM_0239": {
+            "item": "Kunafa Cheese",
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_003",
+            "meal_skill_name": "Defender Meal (Lo)",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0240": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_004",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL1"
+            ]
+        },
+        "ITEM_0241": {
+            "item": "Droolshroom",
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_005",
+            "meal_skill_name": "Black Belt Meal (Lo)",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0242": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_006",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL1"
+            ]
+        },
+        "ITEM_0243": {
+            "item": "Mud Shrimp",
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_007",
+            "meal_skill_name": "Tumbler Meal (Lo)",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0244": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_008",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL1"
+            ]
+        },
+        "ITEM_0245": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_011",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0246": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_012",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL1"
+            ]
+        },
+        "ITEM_0247": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_009",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0248": {
+            "item": null,
+            "time": 20,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 0,
+            "meal_skills": "SKILL_010",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL1"
+            ]
+        }
+    },
+    "finishing": {
+        "ITEM_0249": {
+            "item": "Wild Herb",
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_013",
+            "meal_skill_name": "Immunizer Meal",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0250": {
+            "item": "Eastern Honey",
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_014",
+            "meal_skill_name": "Medic Meal",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0251": {
+            "item": "Monster Chili",
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_015",
+            "meal_skill_name": "Sizzling Meal",
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0252": {
+            "item": null,
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_016",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0253": {
+            "item": null,
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_017",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL0"
+            ]
+        },
+        "ITEM_0254": {
+            "item": null,
+            "time": 0,
+            "health": 0,
+            "stamina": 0,
+            "attack": 0,
+            "defence": 0,
+            "attr_resist": 5,
+            "meal_skills": "SKILL_018",
+            "meal_skill_name": null,
+            "random_table": [
+                "TBL0"
+            ]
+        }
+    }
+}

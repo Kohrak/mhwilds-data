@@ -1,0 +1,652 @@
+{
+    "RECIPE_000": {
+        "idx": 0,
+        "result": "Potion",
+        "materials": [
+            "Herb",
+            "---"
+        ],
+        "result_id": "ITEM_0000",
+        "materials_id": [
+            "ITEM_0025",
+            "NONE"
+        ]
+    },
+    "RECIPE_001": {
+        "idx": 1,
+        "result": "Mega Potion",
+        "materials": [
+            "Potion",
+            "Honey"
+        ],
+        "result_id": "ITEM_0001",
+        "materials_id": [
+            "ITEM_0000",
+            "ITEM_0027"
+        ]
+    },
+    "RECIPE_002": {
+        "idx": 3,
+        "result": "Antidote",
+        "materials": [
+            "Antidote Herb",
+            "---"
+        ],
+        "result_id": "ITEM_0002",
+        "materials_id": [
+            "ITEM_0026",
+            "NONE"
+        ]
+    },
+    "RECIPE_003": {
+        "idx": 11,
+        "result": "Lifepowder",
+        "materials": [
+            "Godbug Essence",
+            "Blue Mushroom"
+        ],
+        "result_id": "ITEM_0010",
+        "materials_id": [
+            "ITEM_0030",
+            "ITEM_0088"
+        ]
+    },
+    "RECIPE_004": {
+        "idx": 35,
+        "result": "Dung Pod",
+        "materials": [
+            "Dung",
+            "---"
+        ],
+        "result_id": "ITEM_0093",
+        "materials_id": [
+            "ITEM_0122",
+            "NONE"
+        ]
+    },
+    "RECIPE_005": {
+        "idx": 36,
+        "result": "Dung Pod",
+        "materials": [
+            "Rolled-up Dung",
+            "---"
+        ],
+        "result_id": "ITEM_0093",
+        "materials_id": [
+            "ITEM_0124",
+            "NONE"
+        ]
+    },
+    "RECIPE_008": {
+        "idx": 34,
+        "result": "Flash Pod",
+        "materials": [
+            "Flashbug Phosphor",
+            "---"
+        ],
+        "result_id": "ITEM_0014",
+        "materials_id": [
+            "ITEM_0029",
+            "NONE"
+        ]
+    },
+    "RECIPE_009": {
+        "idx": 48,
+        "result": "Sticky Ammo",
+        "materials": [
+            "Blastnut",
+            "---"
+        ],
+        "result_id": "ITEM_0046",
+        "materials_id": [
+            "ITEM_0156",
+            "NONE"
+        ]
+    },
+    "RECIPE_010": {
+        "idx": 51,
+        "result": "Slicing Ammo",
+        "materials": [
+            "Slashberry",
+            "---"
+        ],
+        "result_id": "ITEM_0068",
+        "materials_id": [
+            "ITEM_0157",
+            "NONE"
+        ]
+    },
+    "RECIPE_011": {
+        "idx": 53,
+        "result": "Flaming Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Fire Herb"
+        ],
+        "result_id": "ITEM_0052",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0142"
+        ]
+    },
+    "RECIPE_012": {
+        "idx": 54,
+        "result": "Water Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Flowfern"
+        ],
+        "result_id": "ITEM_0053",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0143"
+        ]
+    },
+    "RECIPE_013": {
+        "idx": 55,
+        "result": "Thunder Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Thunderbug Capacitor"
+        ],
+        "result_id": "ITEM_0054",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0031"
+        ]
+    },
+    "RECIPE_014": {
+        "idx": 56,
+        "result": "Freeze Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Snow Herb"
+        ],
+        "result_id": "ITEM_0055",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0144"
+        ]
+    },
+    "RECIPE_015": {
+        "idx": 57,
+        "result": "Dragon Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Dragonfell Berry"
+        ],
+        "result_id": "ITEM_0056",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0145"
+        ]
+    },
+    "RECIPE_016": {
+        "idx": 58,
+        "result": "Poison Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Toadstool"
+        ],
+        "result_id": "ITEM_0057",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0139"
+        ]
+    },
+    "RECIPE_017": {
+        "idx": 59,
+        "result": "Paralysis Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Parashroom"
+        ],
+        "result_id": "ITEM_0059",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0140"
+        ]
+    },
+    "RECIPE_018": {
+        "idx": 60,
+        "result": "Sleep Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Sleep Herb"
+        ],
+        "result_id": "ITEM_0061",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0141"
+        ]
+    },
+    "RECIPE_019": {
+        "idx": 4,
+        "result": "Herbal Medicine",
+        "materials": [
+            "Antidote",
+            "Blue Mushroom"
+        ],
+        "result_id": "ITEM_0200",
+        "materials_id": [
+            "ITEM_0002",
+            "ITEM_0088"
+        ]
+    },
+    "RECIPE_022": {
+        "idx": 7,
+        "result": "Max Potion",
+        "materials": [
+            "Catalyst",
+            "Mandragora"
+        ],
+        "result_id": "ITEM_0003",
+        "materials_id": [
+            "ITEM_0660",
+            "ITEM_0087"
+        ]
+    },
+    "RECIPE_023": {
+        "idx": 8,
+        "result": "Catalyst",
+        "materials": [
+            "Bitterbug Broth",
+            "Honey"
+        ],
+        "result_id": "ITEM_0660",
+        "materials_id": [
+            "ITEM_0028",
+            "ITEM_0027"
+        ]
+    },
+    "RECIPE_024": {
+        "idx": 9,
+        "result": "Immunizer",
+        "materials": [
+            "Bitterbug Broth",
+            "Mandragora"
+        ],
+        "result_id": "ITEM_0191",
+        "materials_id": [
+            "ITEM_0028",
+            "ITEM_0087"
+        ]
+    },
+    "RECIPE_027": {
+        "idx": 13,
+        "result": "Herbal Powder",
+        "materials": [
+            "Godbug Essence",
+            "Herbal Medicine"
+        ],
+        "result_id": "ITEM_0201",
+        "materials_id": [
+            "ITEM_0030",
+            "ITEM_0200"
+        ]
+    },
+    "RECIPE_028": {
+        "idx": 14,
+        "result": "Energy Drink",
+        "materials": [
+            "Nitroshroom",
+            "Honey"
+        ],
+        "result_id": "ITEM_0189",
+        "materials_id": [
+            "ITEM_0154",
+            "ITEM_0027"
+        ]
+    },
+    "RECIPE_032": {
+        "idx": 18,
+        "result": "Demondrug",
+        "materials": [
+            "Catalyst",
+            "Might Seed"
+        ],
+        "result_id": "ITEM_0194",
+        "materials_id": [
+            "ITEM_0660",
+            "ITEM_0152"
+        ]
+    },
+    "RECIPE_034": {
+        "idx": 20,
+        "result": "Demon Powder",
+        "materials": [
+            "Godbug Essence",
+            "Might Seed"
+        ],
+        "result_id": "ITEM_0202",
+        "materials_id": [
+            "ITEM_0030",
+            "ITEM_0152"
+        ]
+    },
+    "RECIPE_035": {
+        "idx": 21,
+        "result": "Might Pill",
+        "materials": [
+            "Immunizer",
+            "Might Seed"
+        ],
+        "result_id": "ITEM_0195",
+        "materials_id": [
+            "ITEM_0191",
+            "ITEM_0152"
+        ]
+    },
+    "RECIPE_036": {
+        "idx": 22,
+        "result": "Armorskin",
+        "materials": [
+            "Catalyst",
+            "Adamant Seed"
+        ],
+        "result_id": "ITEM_0197",
+        "materials_id": [
+            "ITEM_0660",
+            "ITEM_0153"
+        ]
+    },
+    "RECIPE_038": {
+        "idx": 24,
+        "result": "Hardshell Powder",
+        "materials": [
+            "Godbug Essence",
+            "Adamant Seed"
+        ],
+        "result_id": "ITEM_0203",
+        "materials_id": [
+            "ITEM_0030",
+            "ITEM_0153"
+        ]
+    },
+    "RECIPE_039": {
+        "idx": 25,
+        "result": "Adamant Pill",
+        "materials": [
+            "Immunizer",
+            "Adamant Seed"
+        ],
+        "result_id": "ITEM_0198",
+        "materials_id": [
+            "ITEM_0191",
+            "ITEM_0153"
+        ]
+    },
+    "RECIPE_041": {
+        "idx": 27,
+        "result": "Gunpowder",
+        "materials": [
+            "Fire Herb",
+            "Nitroshroom"
+        ],
+        "result_id": "ITEM_0661",
+        "materials_id": [
+            "ITEM_0142",
+            "ITEM_0154"
+        ]
+    },
+    "RECIPE_042": {
+        "idx": 28,
+        "result": "Barrel Bomb",
+        "materials": [
+            "Fire Herb",
+            "Small Barrel"
+        ],
+        "result_id": "ITEM_0012",
+        "materials_id": [
+            "ITEM_0142",
+            "ITEM_0662"
+        ]
+    },
+    "RECIPE_043": {
+        "idx": 29,
+        "result": "Large Barrel Bomb",
+        "materials": [
+            "Gunpowder",
+            "Large Barrel"
+        ],
+        "result_id": "ITEM_0013",
+        "materials_id": [
+            "ITEM_0661",
+            "ITEM_0663"
+        ]
+    },
+    "RECIPE_046": {
+        "idx": 32,
+        "result": "Smoke Bomb",
+        "materials": [
+            "Smokenut",
+            "Ivy"
+        ],
+        "result_id": "ITEM_0177",
+        "materials_id": [
+            "ITEM_0098",
+            "ITEM_0099"
+        ]
+    },
+    "RECIPE_047": {
+        "idx": 33,
+        "result": "Poison Smoke Bomb",
+        "materials": [
+            "Smokenut",
+            "Toadstool"
+        ],
+        "result_id": "ITEM_0206",
+        "materials_id": [
+            "ITEM_0098",
+            "ITEM_0139"
+        ]
+    },
+    "RECIPE_048": {
+        "idx": 37,
+        "result": "Large Dung Pod",
+        "materials": [
+            "Dung Pod",
+            "Nitroshroom"
+        ],
+        "result_id": "ITEM_0483",
+        "materials_id": [
+            "ITEM_0093",
+            "ITEM_0154"
+        ]
+    },
+    "RECIPE_050": {
+        "idx": 39,
+        "result": "Poisoned Meat",
+        "materials": [
+            "Raw Meat",
+            "Toadstool"
+        ],
+        "result_id": "ITEM_0237",
+        "materials_id": [
+            "ITEM_0011",
+            "ITEM_0139"
+        ]
+    },
+    "RECIPE_051": {
+        "idx": 40,
+        "result": "Tinged Meat",
+        "materials": [
+            "Raw Meat",
+            "Parashroom"
+        ],
+        "result_id": "ITEM_0234",
+        "materials_id": [
+            "ITEM_0011",
+            "ITEM_0140"
+        ]
+    },
+    "RECIPE_052": {
+        "idx": 41,
+        "result": "Drugged Meat",
+        "materials": [
+            "Raw Meat",
+            "Sleep Herb"
+        ],
+        "result_id": "ITEM_0212",
+        "materials_id": [
+            "ITEM_0011",
+            "ITEM_0141"
+        ]
+    },
+    "RECIPE_053": {
+        "idx": 42,
+        "result": "Net",
+        "materials": [
+            "Ivy",
+            "Spider Web"
+        ],
+        "result_id": "ITEM_0665",
+        "materials_id": [
+            "ITEM_0099",
+            "ITEM_0664"
+        ]
+    },
+    "RECIPE_054": {
+        "idx": 43,
+        "result": "Pitfall Trap",
+        "materials": [
+            "Trap Tool",
+            "Net"
+        ],
+        "result_id": "ITEM_0017",
+        "materials_id": [
+            "ITEM_0096",
+            "ITEM_0665"
+        ]
+    },
+    "RECIPE_055": {
+        "idx": 44,
+        "result": "Shock Trap",
+        "materials": [
+            "Trap Tool",
+            "Thunderbug Capacitor"
+        ],
+        "result_id": "ITEM_0018",
+        "materials_id": [
+            "ITEM_0096",
+            "ITEM_0031"
+        ]
+    },
+    "RECIPE_056": {
+        "idx": 45,
+        "result": "Tranq Bomb",
+        "materials": [
+            "Sleep Herb",
+            "Parashroom"
+        ],
+        "result_id": "ITEM_0207",
+        "materials_id": [
+            "ITEM_0141",
+            "ITEM_0140"
+        ]
+    },
+    "RECIPE_057": {
+        "idx": 46,
+        "result": "Tranq Ammo",
+        "materials": [
+            "Tranq Bomb",
+            "Normal Ammo"
+        ],
+        "result_id": "ITEM_0442",
+        "materials_id": [
+            "ITEM_0207",
+            "ITEM_0037"
+        ]
+    },
+    "RECIPE_058": {
+        "idx": 47,
+        "result": "Tranq Blade",
+        "materials": [
+            "Tranq Bomb",
+            "Throwing Knife"
+        ],
+        "result_id": "ITEM_0171",
+        "materials_id": [
+            "ITEM_0207",
+            "ITEM_0208"
+        ]
+    },
+    "RECIPE_060": {
+        "idx": 50,
+        "result": "Cluster Bomb",
+        "materials": [
+            "Bomberry",
+            "---"
+        ],
+        "result_id": "ITEM_0049",
+        "materials_id": [
+            "ITEM_0317",
+            "NONE"
+        ]
+    },
+    "RECIPE_063": {
+        "idx": 62,
+        "result": "Recover Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Blue Mushroom"
+        ],
+        "result_id": "ITEM_0441",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0088"
+        ]
+    },
+    "RECIPE_064": {
+        "idx": 63,
+        "result": "Demon Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Might Seed"
+        ],
+        "result_id": "ITEM_0439",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0152"
+        ]
+    },
+    "RECIPE_065": {
+        "idx": 64,
+        "result": "Armor Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Adamant Seed"
+        ],
+        "result_id": "ITEM_0440",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0153"
+        ]
+    },
+    "RECIPE_066": {
+        "idx": 65,
+        "result": "Wyvern Ammo",
+        "materials": [
+            "Dragonstrike Nut",
+            "---"
+        ],
+        "result_id": "ITEM_0180",
+        "materials_id": [
+            "ITEM_0316",
+            "NONE"
+        ]
+    },
+    "RECIPE_067": {
+        "idx": 2,
+        "result": "First-aid Med+",
+        "materials": [
+            "First-aid Med",
+            "Honey"
+        ],
+        "result_id": "ITEM_0224",
+        "materials_id": [
+            "ITEM_0146",
+            "ITEM_0027"
+        ]
+    }
+}

@@ -1,0 +1,1211 @@
+{
+    "NONE": {
+        "0": {
+            "id": "NONE",
+            "lvl": 0,
+            "name": null,
+            "explain": null,
+            "open_skills": [],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_019": {
+        "1": {
+            "id": "HunterSkill_019",
+            "lvl": 1,
+            "name": "Ballistics",
+            "explain": "Slightly extends range.",
+            "open_skills": [
+                "HunterSkill_019"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_019",
+            "lvl": 2,
+            "name": "Ballistics",
+            "explain": "Extends range.",
+            "open_skills": [
+                "HunterSkill_019"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_019",
+            "lvl": 3,
+            "name": "Ballistics",
+            "explain": "Greatly extends range.",
+            "open_skills": [
+                "HunterSkill_019"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_068": {
+        "1": {
+            "id": "HunterSkill_068",
+            "lvl": 1,
+            "name": "Divine Blessing",
+            "explain": "While active, reduces damage taken by 15%.",
+            "open_skills": [
+                "HunterSkill_068"
+            ],
+            "data_values": [
+                25,
+                85,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_068",
+            "lvl": 2,
+            "name": "Divine Blessing",
+            "explain": "While active, reduces damage taken by 30%.",
+            "open_skills": [
+                "HunterSkill_068"
+            ],
+            "data_values": [
+                25,
+                70,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_068",
+            "lvl": 3,
+            "name": "Divine Blessing",
+            "explain": "While active, reduces damage taken by 50%.",
+            "open_skills": [
+                "HunterSkill_068"
+            ],
+            "data_values": [
+                25,
+                50,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_083": {
+        "1": {
+            "id": "HunterSkill_083",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_083"
+            ],
+            "data_values": [
+                150,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_083",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_083"
+            ],
+            "data_values": [
+                300,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_083",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_083"
+            ],
+            "data_values": [
+                300,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_084": {
+        "1": {
+            "id": "HunterSkill_084",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_084"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_084",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_084"
+            ],
+            "data_values": [
+                40,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_084",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_084"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_085": {
+        "1": {
+            "id": "HunterSkill_085",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_085"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_085",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_085"
+            ],
+            "data_values": [
+                40,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_085",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_085"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_120": {
+        "1": {
+            "id": "HunterSkill_120",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_120"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_120",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_120"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_120",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_120"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_082": {
+        "1": {
+            "id": "HunterSkill_082",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_082"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_082",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_082"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_082",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_082"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_086": {
+        "1": {
+            "id": "HunterSkill_086",
+            "lvl": 1,
+            "name": "Stun Resistance",
+            "explain": "Reduces the duration of stun by 30%.",
+            "open_skills": [
+                "HunterSkill_086"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_086",
+            "lvl": 2,
+            "name": "Stun Resistance",
+            "explain": "Reduces the duration of stun by 60%.",
+            "open_skills": [
+                "HunterSkill_086"
+            ],
+            "data_values": [
+                40,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_086",
+            "lvl": 3,
+            "name": "Stun Resistance",
+            "explain": "Prevents stun.",
+            "open_skills": [
+                "HunterSkill_086"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_119": {
+        "1": {
+            "id": "HunterSkill_119",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_119"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_119",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_119"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_119",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_119"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_087": {
+        "1": {
+            "id": "HunterSkill_087",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_087"
+            ],
+            "data_values": [
+                150,
+                50,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_087",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_087"
+            ],
+            "data_values": [
+                200,
+                25,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_087",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_087"
+            ],
+            "data_values": [
+                0,
+                25,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_069": {
+        "1": {
+            "id": "HunterSkill_069",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_069"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_069",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_069"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_069",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_069"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_070": {
+        "1": {
+            "id": "HunterSkill_070",
+            "lvl": 1,
+            "name": "Recovery Speed",
+            "explain": "Doubles the speed at which you heal recoverable damage.",
+            "open_skills": [
+                "HunterSkill_070"
+            ],
+            "data_values": [
+                200,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_070",
+            "lvl": 2,
+            "name": "Recovery Speed",
+            "explain": "Triples the speed at which you heal recoverable damage.",
+            "open_skills": [
+                "HunterSkill_070"
+            ],
+            "data_values": [
+                300,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_070",
+            "lvl": 3,
+            "name": "Recovery Speed",
+            "explain": "Quadruples the speed at which you heal recoverable damage.",
+            "open_skills": [
+                "HunterSkill_070"
+            ],
+            "data_values": [
+                400,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_025": {
+        "1": {
+            "id": "HunterSkill_025",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_025"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_025",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_025"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_025",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_025"
+            ],
+            "data_values": [
+                30,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_025",
+            "lvl": 4,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_025"
+            ],
+            "data_values": [
+                40,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_025",
+            "lvl": 5,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_025"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_065": {
+        "1": {
+            "id": "HunterSkill_065",
+            "lvl": 1,
+            "name": "Stamina Surge",
+            "explain": "Stamina recovery speed +10%",
+            "open_skills": [
+                "HunterSkill_065"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_065",
+            "lvl": 2,
+            "name": "Stamina Surge",
+            "explain": "Stamina recovery speed +30%",
+            "open_skills": [
+                "HunterSkill_065"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_065",
+            "lvl": 3,
+            "name": "Stamina Surge",
+            "explain": "Stamina recovery speed +50%",
+            "open_skills": [
+                "HunterSkill_065"
+            ],
+            "data_values": [
+                150,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_130": {
+        "1": {
+            "id": "HunterSkill_130",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_130"
+            ],
+            "data_values": [
+                105,
+                105,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_130",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_130"
+            ],
+            "data_values": [
+                110,
+                110,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_130",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_130"
+            ],
+            "data_values": [
+                115,
+                115,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_130",
+            "lvl": 4,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_130"
+            ],
+            "data_values": [
+                120,
+                120,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_130",
+            "lvl": 5,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_130"
+            ],
+            "data_values": [
+                125,
+                125,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_195": {
+        "1": {
+            "id": "HunterSkill_195",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_195"
+            ],
+            "data_values": [
+                3,
+                12,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_195",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_195"
+            ],
+            "data_values": [
+                5,
+                15,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_195",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_195"
+            ],
+            "data_values": [
+                8,
+                20,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_075": {
+        "1": {
+            "id": "HunterSkill_075",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_075",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_075",
+            "lvl": 3,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_075",
+            "lvl": 4,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_075",
+            "lvl": 5,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_071": {
+        "1": {
+            "id": "HunterSkill_071",
+            "lvl": 1,
+            "name": "Speed Eating",
+            "explain": "Slightly increases eating speed.",
+            "open_skills": [
+                "HunterSkill_071"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_071",
+            "lvl": 2,
+            "name": "Speed Eating",
+            "explain": "Increases eating speed.",
+            "open_skills": [
+                "HunterSkill_071"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_071",
+            "lvl": 3,
+            "name": "Speed Eating",
+            "explain": "Greatly increases eating speed.",
+            "open_skills": [
+                "HunterSkill_071"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_095": {
+        "1": {
+            "id": "HunterSkill_095",
+            "lvl": 1,
+            "name": "Bombardier",
+            "explain": "Explosive power +10%",
+            "open_skills": [
+                "HunterSkill_095"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_095",
+            "lvl": 2,
+            "name": "Bombardier",
+            "explain": "Explosive power +20%",
+            "open_skills": [
+                "HunterSkill_095"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_095",
+            "lvl": 3,
+            "name": "Bombardier",
+            "explain": "Explosive power +30%",
+            "open_skills": [
+                "HunterSkill_095"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_099": {
+        "1": {
+            "id": "HunterSkill_099",
+            "lvl": 1,
+            "name": "Free Meal",
+            "explain": "Activates 10% of the time.",
+            "open_skills": [
+                "HunterSkill_099"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_099",
+            "lvl": 2,
+            "name": "Free Meal",
+            "explain": "Activates 25% of the time.",
+            "open_skills": [
+                "HunterSkill_099"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_099",
+            "lvl": 3,
+            "name": "Free Meal",
+            "explain": "Activates 45% of the time.",
+            "open_skills": [
+                "HunterSkill_099"
+            ],
+            "data_values": [
+                45,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_046": {
+        "1": {
+            "id": "HunterSkill_046",
+            "lvl": 1,
+            "name": "Speed Sharpening",
+            "explain": "Removes one cycle from the sharpening process.",
+            "open_skills": [
+                "HunterSkill_046"
+            ],
+            "data_values": [
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_046",
+            "lvl": 2,
+            "name": "Speed Sharpening",
+            "explain": "Removes two cycles from the sharpening process.",
+            "open_skills": [
+                "HunterSkill_046"
+            ],
+            "data_values": [
+                2,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_122": {
+        "1": {
+            "id": "HunterSkill_122",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_122"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_122",
+            "lvl": 2,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_122"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_126": {
+        "1": {
+            "id": "HunterSkill_126",
+            "lvl": 1,
+            "name": null,
+            "explain": null,
+            "open_skills": [
+                "HunterSkill_126"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_166": {
+        "3": {
+            "id": "HunterSkill_166",
+            "lvl": 3,
+            "name": "Master Mounter",
+            "explain": "Makes it easier to mount monsters.",
+            "open_skills": [
+                "HunterSkill_108"
+            ],
+            "data_values": [
+                120,
+                150,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_164": {
+        "3": {
+            "id": "HunterSkill_164",
+            "lvl": 3,
+            "name": "Master Gatherer",
+            "explain": "Increases gathering speed, and prevents knock back when gathering or carving.",
+            "open_skills": [
+                "HunterSkill_128"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_168": {
+        "3": {
+            "id": "HunterSkill_168",
+            "lvl": 3,
+            "name": "Fortify",
+            "explain": "Increases attack and defense after fainting during a quest. (Can be used twice. Does not apply to some quests)",
+            "open_skills": [
+                "HunterSkill_101"
+            ],
+            "data_values": [
+                110,
+                115,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_175": {
+        "2": {
+            "id": "HunterSkill_175",
+            "lvl": 2,
+            "name": "Powerhouse I",
+            "explain": "Temporarily increases attack +10 after a successful Power Clash or Offset attack",
+            "open_skills": [
+                "HunterSkill_151"
+            ],
+            "data_values": [
+                10,
+                180,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_175",
+            "lvl": 4,
+            "name": "Powerhouse II",
+            "explain": "Temporarily increases attack +25 after a successful Power Clash or Offset attack",
+            "open_skills": [
+                "HunterSkill_151"
+            ],
+            "data_values": [
+                25,
+                180,
+                0,
+                0
+            ]
+        }
+    }
+}
