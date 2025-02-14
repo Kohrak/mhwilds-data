@@ -8,10 +8,34 @@ parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, parent_dir)
 from parser import Parser2
 import json
+import struct
 
-base = os.environ["BASE"]
+BASE = os.environ["BASE"]
 
 MSG_FILES = ["combined_msgs.json"]
+
+def getpog():
+    f = open(os.path.join(BASE, "natives/stm/gamedesign/stage/st101/layout/loaded/gimmick/pointgraph/st101_pointlist_gimmick.poglst.0.json"))
+    poglist = json.load(f)["paths"]
+    pog_ver = 10
+    base = os.path.join(BASE, "natives/stm/")
+    points = []
+    names = []
+    for pogpath in poglist:
+        f = open(os.path.join(base, pogpath.lower()) + f".{pog_ver}.json")
+        pog = json.load(f)
+        if pog[0][0]["type"] != "app.point_graph_data.ContextLayoutGimmick":
+            continue
+        for val in pog[0]:
+            point = val["rsz"]["v1"]
+            gmid = val["rsz"]["_GmID"]
+            #if "GM003" not in gmid:
+            #    continue
+            point = struct.unpack('<4f', bytes(point))
+            points.append(point[0:3])
+            names.append(gmid)
+    return points, names
+
 
 def parse_gimmicks(self):
     f = open(os.path.join(base, "natives/stm/gamedesign/common/gimmick/gimmicktextdata.user.3.json"))
@@ -26,7 +50,11 @@ def parse_gimmicks(self):
         expl = self.get_msg_by_guid(gimmick["_Explain"])
         gimmicks[id] = {
             "name": name,
-            "explain": expl
+            "explain": expl,
+            "icon": "question mark",
+            "color": "none",
+            "map_icon": None,
+            "points": [],
         }
     for gimmick in basicdata:
         id = gimmick["_GimmickId"]
@@ -55,7 +83,8 @@ def parse_gimmicks(self):
             "explain": explain,
             "icon": icon,
             "color": color,
-            "map_icon": gimmick["_MapIconType"]
+            "map_icon": gimmick["_MapIconType"],
+            "points": [],
         }
 
         out_dir = "wilds/data/gimmick_icons"
@@ -77,6 +106,19 @@ def parse_gimmicks(self):
             map_tex = multiply_image_by_color(map_tex, color[:3])
             map_tex.save(map_icon_path)
 
+    points, names = getpog()
+    for point, name in zip(points, names):
+        if gimmicks.get(name):
+            gimmicks[name]["points"].append(point)
+        else:
+            gimmicks[name] = {
+                "name": None,
+                "explain": None,
+                "icon": "Question Qark",
+                "color": "None",
+                "map_icon": None,
+                "points": [],
+            }
     return gimmicks
 
 gimmick_data = Parser2(parse_gimmicks, MSG_FILES, base, msg_ext="").parse()

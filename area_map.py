@@ -192,3 +192,6 @@ def pog():
 #pog()
 area_map()
 
+points, names = getpog()
+with open("./gimmick_points.json", 'w') as f:
+    json.dump({"points": points, "names": names}, f)
