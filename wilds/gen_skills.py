@@ -13,7 +13,8 @@ base = os.environ["BASE"]
 
 
 MSG_FILES = [
-        "wilds/combined_msgs.json"
+        #"combined_msgs.json",
+        "../../../mhwstuff/outputs/wilds/combined_msgs.json"
 ]
 
 def parse_skills(self):
@@ -24,9 +25,20 @@ def parse_skills(self):
     common = {}
     for skill in skillcommondata:
         id = skill["_skillId"]
+        id_num = id.split("_")[-1]
         name = self.get_msg_by_guid(skill["_skillName"])
+        #if name is None:
+            #name = self.get_msg(f"SkillCommon_{id_num}")
+        
         explain = self.get_msg_by_guid(skill["_skillExplain"])
+        if explain is None:
+            explain = self.get_msg(f"SkillCommon_EXP{id_num}")
+        
         icon = skill["_SkillIconType"]
+        icon_idx = 0
+        if icon != "INVALID":
+            icon_idx = int(icon.replace("SKILL_", ""))
+            icon = SKILL_ICONS_WILDS[icon_idx]
         common[id] = {
                 "name": name,
                 "explain": explain,
@@ -36,9 +48,8 @@ def parse_skills(self):
                 "levels": {}
         }
         out_dir = "wilds/data/skill_icons"
-        if id != "NONE" and icon != "INVALID":
-            icon_idx = int(icon.replace("SKILL_", ""))
-            tex_name = f"MHWilds-{SKILL_ICONS_WILDS[icon_idx]} Icon.png"
+        if id != "NONE":
+            tex_name = f"MHWilds-{icon} Icon.png"
             icon_path = os.path.join(out_dir, tex_name)
             if not os.path.exists(out_dir):
                 os.makedirs(out_dir)

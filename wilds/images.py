@@ -3,6 +3,10 @@ from PIL import Image
 import numpy as np
 
 base = os.environ["BASE"]
+if version := os.environ["VERSION"]:
+    pass
+else:
+    version = 241106027
 
 def multiply_image_by_color(img, color):
     img = img.convert("RGBA")  # Ensure it has an alpha channel
@@ -35,9 +39,9 @@ def add_padding(img, padding, color=(0, 0, 0, 0)):
     return new_img
 
 icon_dim = 100
-ICONS_TEX = split_spritesheet(os.path.join(base, "natives/stm/gui/ui_texture/tex000000/tex000201_0_imlm4.tex.240701001.png"), icon_dim, icon_dim)
+ICONS_TEX = split_spritesheet(os.path.join(base, f"natives/stm/gui/ui_texture/tex000000/tex000201_0_imlm4.tex.{version}.png"), icon_dim, icon_dim)
 add_icon_dim = 64
-ADD_ICONS_TEX = split_spritesheet(os.path.join(base, "natives/stm/gui/ui_texture/tex000000/tex000201_20_imlm4.tex.240701001.png"), add_icon_dim, add_icon_dim)
+ADD_ICONS_TEX = split_spritesheet(os.path.join(base, f"natives/stm/gui/ui_texture/tex000000/tex000201_20_imlm4.tex.{version}.png"), add_icon_dim, add_icon_dim)
 icon_dim = 100
-COL_ICONS = split_spritesheet(os.path.join(base, "natives/stm/gui/ui_texture/tex000000/tex000201_1_imlm4.tex.240701001.png"), icon_dim, icon_dim)
+COL_ICONS = split_spritesheet(os.path.join(base, f"natives/stm/gui/ui_texture/tex000000/tex000201_1_imlm4.tex.{version}.png"), icon_dim, icon_dim)
 COL_ICONS[0].show

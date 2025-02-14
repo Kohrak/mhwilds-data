@@ -13,10 +13,6 @@ import json
 
 base = os.environ["BASE"]
 
-icon_dim = 100
-col_icons = split_spritesheet(os.path.join(base, "natives/stm/gui/ui_texture/tex000000/tex000201_1_imlm4.tex.240701001.png"), icon_dim, icon_dim)
-col_icons[0].show
-
 MSG_FILES = [
         "wilds/combined_msgs.json"
 ]

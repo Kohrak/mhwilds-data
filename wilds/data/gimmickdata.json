@@ -1,0 +1,3765 @@
+{
+    "GM000_152_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Pink",
+        "map_icon": "INVALID"
+    },
+    "GM000_112_00": {
+        "name": "<REF Item_IT_7>",
+        "explain": "<REF Item_IT_EXP_7>",
+        "icon": "Seed",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM504_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM036_010_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM030_079_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_175_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Pink",
+        "map_icon": "INVALID"
+    },
+    "GM034_002_00": {
+        "name": "Sticky Rock",
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM001_013_00": {
+        "name": "Brush",
+        "explain": "An area covered in tall grass that can conceal a crouching hunter from sight.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0022"
+    },
+    "GM205_002_00": {
+        "name": "<REF Item_IT_208>",
+        "explain": "A trap that attracts carnivores. They'll be paralyzed if they eat the bait.",
+        "icon": "Meat",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM202_000_00": {
+        "name": "<REF Item_IT_20>",
+        "explain": "<REF Item_IT_EXP_20>",
+        "icon": "Trap",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_51": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM103_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0027"
+    },
+    "GM000_117_00": {
+        "name": "<REF Item_IT_128>",
+        "explain": "<REF Item_IT_EXP_128>",
+        "icon": "Mushroom",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM002_002_00": {
+        "name": "Quicksand",
+        "explain": "A trap laid by a <REF EnemyText_NAME_EM0151_00_0> to snare prey. The shifting sand hinders the movement of those caught inside.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0023"
+    },
+    "GM030_014_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_176_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM030_030_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_170_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM000_160_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM031_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM200_000_00": {
+        "name": "<REF Item_IT_15>",
+        "explain": "<REF Item_IT_EXP_15>",
+        "icon": "Bomb",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM032_002_00": {
+        "name": "Bonepile",
+        "explain": "A place for gathering bone materials.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM800_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM016_000_00": {
+        "name": "Unstable Fulgurite Outcrop",
+        "explain": "A brittle outcropping of fulgurite. A strong impact will bring it down, revealing sharp crystalline thorns in its place.",
+        "icon": "Trap",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM015_000_00": {
+        "name": "Ancient Wyvern Coin",
+        "explain": null,
+        "icon": "Coin",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM800_010_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM030_084_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_151_00": {
+        "name": "Fulgurite Vein",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Pouch",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_54": {
+        "name": "Area 4 West",
+        "explain": "<REF RefEnvironment_TentTips_Danger>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM009_002_00": {
+        "name": "Grounding Rock",
+        "explain": "A large rock pillar that intercepts lightning strikes, affording protection to the surrounding area.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0024"
+    },
+    "GM030_100_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM250_001_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM800_003_50": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_024_00": {
+        "name": "Mineral Fragments",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM200_001_00": {
+        "name": "<REF Item_IT_197>",
+        "explain": "<REF Item_IT_EXP_197>",
+        "icon": "Bomb",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM000_113_00": {
+        "name": "<REF Item_IT_67>",
+        "explain": "<REF Item_IT_EXP_67>",
+        "icon": "Mushroom",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM800_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM030_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_174_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_011_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM000_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM810_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM030_069_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_100_00": {
+        "name": "<REF Item_IT_26>",
+        "explain": "<REF Item_IT_EXP_26>",
+        "icon": "Herb",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM030_008_00": {
+        "name": "Spit-Up Mucus",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_019_00": {
+        "name": "<REF Item_IT_468>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM207_000_00": {
+        "name": "<REF RefStatus_0000_SP_008>",
+        "explain": "Has your Palico set out a cage of flashflies. Hitting it will cause it to emit a flash that blinds monsters.",
+        "icon": "Trap",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM030_026_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_059_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_167_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM000_118_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM034_022_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM800_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM205_000_00": {
+        "name": "<REF Item_IT_13>",
+        "explain": "A trap that attracts carnivores. Snared monsters can be used for crafting or cooking.",
+        "icon": "Meat",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_56": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_052_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM030_022_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_001_00": {
+        "name": "<REF Item_IT_69>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Emerald",
+        "map_icon": "INVALID"
+    },
+    "GM000_104_00": {
+        "name": "<REF Item_IT_115>",
+        "explain": "<REF Item_IT_EXP_115>",
+        "icon": "Herb",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM034_021_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_153_00": {
+        "name": "Ephemeral Blossom",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Pouch",
+        "color": "Bpurple",
+        "map_icon": "INVALID"
+    },
+    "GM100_000_00": {
+        "name": "{0} Tent",
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_004_00": {
+        "name": "Blue Thunder Crystal Fragment",
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM017_000_00": {
+        "name": "Sharp Crystal Pillar",
+        "explain": "A jagged pillar of keen fulgurite crystal. Crumbles on impact, collapsing atop anything caught beneath.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM552_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Bomb",
+        "color": "White",
+        "map_icon": "MAP_0004"
+    },
+    "GM034_011_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM009_001_00": {
+        "name": "Grounding Rock",
+        "explain": "A large rock pillar that intercepts lightning strikes, affording protection to the surrounding area.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0024"
+    },
+    "GM030_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_080_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM019_001_00": {
+        "name": "Falling Grounding Rock",
+        "explain": "A grounding rock protrusion; easily felled when struck. The fallen fragments repel electricity, and can be used as Slinger ammunition.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM000_007_00": {
+        "name": "Thorngrass Pod",
+        "explain": "<REF Item_IT_EXP_52>",
+        "icon": "Slinger",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_54": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM810_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM800_004_55": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_173_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_58": {
+        "name": "Area 13 West",
+        "explain": "<REF RefEnvironment_TentTips_Caution>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_013_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_171_00": {
+        "name": "Beautiful Aquatica",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Emerald",
+        "map_icon": "INVALID"
+    },
+    "GM000_107_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Ivory",
+        "map_icon": "INVALID"
+    },
+    "GM452_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    },
+    "GM800_001_50": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM035_000_00": {
+        "name": "Carrion Mushroom",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Corpse",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM000_106_00": {
+        "name": "<REF Item_IT_117>",
+        "explain": "<REF Item_IT_EXP_117>",
+        "icon": "Herb",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM410_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM030_043_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_57": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_119_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM701_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Trap",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM036_012_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM030_001_00": {
+        "name": "Shed Fur",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM606_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0028"
+    },
+    "GM016_001_00": {
+        "name": "Unstable Fulgurite Ground",
+        "explain": "A brittle cliffside made of fulgurite. A strong impact will bring it down, revealing sharp crystalline thorns in its place.",
+        "icon": "Trap",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM800_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM810_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM601_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM030_035_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM205_001_00": {
+        "name": "<REF Item_IT_211>",
+        "explain": "A trap that attracts carnivores. They'll be poisoned if they eat the bait.",
+        "icon": "Meat",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM000_164_00": {
+        "name": "Blackened Fossil",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_57": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_00": {
+        "name": "<REF RefEnvironment_0004_0001>",
+        "explain": "The expedition team's base of operations, offering a host of useful support facilities.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM030_023_00": {
+        "name": "Mucus",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_023_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM036_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_095_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0037"
+    },
+    "GM800_003_52": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_044_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_005_00": {
+        "name": "Scraps of Cloth",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM552_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Bomb",
+        "color": "Red",
+        "map_icon": "MAP_0004"
+    },
+    "GM205_003_00": {
+        "name": "<REF Item_IT_186>",
+        "explain": "A trap that attracts carnivores. They'll be put to sleep if they eat the bait.",
+        "icon": "Meat",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM030_089_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_129_00": {
+        "name": "<REF Item_IT_130>",
+        "explain": "<REF Item_IT_EXP_130>",
+        "icon": "Husk",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0038"
+    },
+    "GM000_130_00": {
+        "name": "<REF Item_IT_131>",
+        "explain": "<REF Item_IT_EXP_131>",
+        "icon": "Husk",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM000_004_00": {
+        "name": "Sparkflint",
+        "explain": "<REF Item_IT_EXP_189>",
+        "icon": "Slinger",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM000_143_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Spiderweb",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM750_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0035"
+    },
+    "GM000_157_00": {
+        "name": "Sandpepper",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_56": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_110_00": {
+        "name": "<REF Item_IT_127>",
+        "explain": "<REF Item_IT_EXP_127>",
+        "icon": "Seed",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM000_120_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM036_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM607_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM000_114_00": {
+        "name": "<REF Item_IT_113>",
+        "explain": "<REF Item_IT_EXP_113>",
+        "icon": "Mushroom",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM034_024_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_025_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_179_00": {
+        "name": "Wylky Crystal Outcrop",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Pouch",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM036_003_00": {
+        "name": "<REF Item_IT_155>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_003_53": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM100_002_00": {
+        "name": "Tent",
+        "explain": "The Avis Unit's tent. Enter to manage items, change equipment, and more.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0041"
+    },
+    "GM000_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM000_121_00": {
+        "name": "Mining Outcrop",
+        "explain": "A place for mining ore.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0006"
+    },
+    "GM555_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM810_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM030_004_00": {
+        "name": "Saliva Traces",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM655_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM001_015_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0009"
+    },
+    "GM032_000_00": {
+        "name": "Bonepile",
+        "explain": "A place for gathering bone materials.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM030_058_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_094_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_165_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM036_000_00": {
+        "name": "<REF Item_IT_17>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM030_055_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_53": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM411_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0049"
+    },
+    "GM000_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_53": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_50": {
+        "name": "Area 4 Mineral Cave",
+        "explain": "<REF RefEnvironment_TentTips_Safety>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_62": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_55": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM411_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0049"
+    },
+    "GM034_014_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM800_003_56": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM104_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0027"
+    },
+    "GM030_036_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_021_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_050_00": {
+        "name": "Half-Eaten Carcass",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM000_003_00": {
+        "name": "Grounding Stone",
+        "explain": "<REF Item_IT_EXP_155>",
+        "icon": "Slinger",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_148_00": {
+        "name": "Giant Windward Succulent",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Pouch",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM000_146_00": {
+        "name": "Windward Succulent",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Sgreen",
+        "map_icon": "INVALID"
+    },
+    "GM000_011_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM611_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Trap",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM036_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM206_000_00": {
+        "name": "<REF RefStatus_0000_SP_007>",
+        "explain": "Has your Palico create a scent that attracts Vigorwasps. After a certain amount of time, the scent will fade.",
+        "icon": "Trap",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM001_016_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0008"
+    },
+    "GM000_109_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM036_002_00": {
+        "name": "<REF Item_IT_52>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM030_012_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM050_000_00": {
+        "name": "Sit",
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0027"
+    },
+    "GM030_045_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_154_00": {
+        "name": "Exquisite Fossil",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM551_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Bomb",
+        "color": "White",
+        "map_icon": "MAP_0004"
+    },
+    "GM800_003_55": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM503_000_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0021"
+    },
+    "GM506_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM810_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM030_048_00": {
+        "name": "Half-Eaten Carcass",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_105_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_018_00": {
+        "name": "<REF Item_IT_467>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Ivory",
+        "map_icon": "INVALID"
+    },
+    "GM030_049_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM500_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0004"
+    },
+    "GM032_003_00": {
+        "name": "Bonepile",
+        "explain": "A place for gathering bone materials.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM000_002_00": {
+        "name": "Rockburst",
+        "explain": "<REF Item_IT_EXP_69>",
+        "icon": "Slinger",
+        "color": "Emerald",
+        "map_icon": "INVALID"
+    },
+    "GM408_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM030_040_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM001_016_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0008"
+    },
+    "GM000_101_00": {
+        "name": "<REF Item_IT_27>",
+        "explain": "<REF Item_IT_EXP_27>",
+        "icon": "Herb",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM036_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Pink",
+        "map_icon": "INVALID"
+    },
+    "GM030_020_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM030_046_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_181_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM000_103_00": {
+        "name": "<REF Item_IT_116>",
+        "explain": "<REF Item_IT_EXP_116>",
+        "icon": "Herb",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_02": {
+        "name": "Makeshift Camp",
+        "explain": "A temporary camp with all the necessities for a hunt. Change your equipment and organize your items here. Accessible by fast travel with <ICON UI_DECIDE>.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0030"
+    },
+    "GM034_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "INVALID": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM000_000_00": {
+        "name": "<REF Item_IT_17>",
+        "explain": "<REF Item_IT_EXP_17>",
+        "icon": "Slinger",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM002_000_00": {
+        "name": "Giant Sand Pit",
+        "explain": "A trap laid by a Balahara to snare prey. Large monsters that draw too close are caught in its flow and dragged underground.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0023"
+    },
+    "GM001_001_00": {
+        "name": "Giant Falling Boulder",
+        "explain": "Large boulders that could fall at any moment. Hit them with your Slinger to make them drop and hit whatever lurks underneath.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM001_000_00": {
+        "name": "Falling Boulder",
+        "explain": "Boulders that could fall at any moment. Use your Slinger to drop them onto unsuspecting targets.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM001_002_00": {
+        "name": "Livestock Fence",
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0028"
+    },
+    "GM003_000_00": {
+        "name": "Lightning Rod",
+        "explain": "A place with frequent lightning strikes due to the influence of the Sandtide.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0048"
+    },
+    "GM034_076_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_064_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_060_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_046_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_105_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM034_085_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_026_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_068_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_053_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_000_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM034_057_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_063_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_100_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM034_078_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_142_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Webbing",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM000_005_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Pink",
+        "map_icon": "INVALID"
+    },
+    "GM034_086_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM000_110_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM000_144_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Husk",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM034_071_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_054_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_042_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM032_000_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM034_072_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_051_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_121_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0006"
+    },
+    "GM034_043_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_081_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_028_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_009_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_02": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0030"
+    },
+    "GM000_102_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM612_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0029"
+    },
+    "GM034_061_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_029_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_123_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Webbing",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM000_101_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM034_070_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_049_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_041_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_119_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM021_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0010"
+    },
+    "GM000_103_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM030_070_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_079_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_032_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_115_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM000_107_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Ivory",
+        "map_icon": "INVALID"
+    },
+    "GM854_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM854_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM854_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_037_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_145_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Husk",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM034_077_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_114_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Purple",
+        "map_icon": "INVALID"
+    },
+    "GM034_034_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_056_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_010_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM000_109_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM810_100_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM034_045_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_031_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM810_010_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM000_002_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Emerald",
+        "map_icon": "INVALID"
+    },
+    "GM034_035_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_112_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM034_065_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_010_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_080_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_059_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_111_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM034_039_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_066_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_106_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM034_027_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_058_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_116_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM034_038_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_143_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Spiderweb",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM034_055_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_131_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM034_084_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_074_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_075_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_000_00": {
+        "name": "To Riverside Trail",
+        "explain": "A path that runs alongside a river. Allows passage to adjacent regions.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM854_011_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_047_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_048_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_117_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM034_083_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_073_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM021_000_00": {
+        "name": "Vine Trap",
+        "explain": "An enormous mass of overgrown vines. They'll fall when struck, and monsters caught underneath will temporarily be unable to move.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0010"
+    },
+    "GM034_067_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_104_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Sky",
+        "map_icon": "INVALID"
+    },
+    "GM000_113_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM034_044_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_052_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM810_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_030_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_036_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM854_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM034_069_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_033_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_062_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_082_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_008_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM034_050_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_129_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Husk",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM000_118_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM034_040_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_006_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Ultramarine",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_02": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0030"
+    },
+    "GM000_130_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Husk",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM556_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM000_123_00": {
+        "name": "<REF Item_IT_28>",
+        "explain": "<REF Item_IT_EXP_28>",
+        "icon": "Webbing",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM030_099_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_177_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM553_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM513_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Egg",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM000_131_00": {
+        "name": "<REF Item_IT_119>",
+        "explain": "<REF Item_IT_EXP_119>",
+        "icon": "Seed",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM030_041_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_001_00": {
+        "name": "Thorngrass Pod",
+        "explain": "<REF Item_IT_EXP_52>",
+        "icon": "Slinger",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_56": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM810_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM700_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Bomb",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM030_002_00": {
+        "name": "Chewed Up Remains",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_178_00": {
+        "name": "Wylky Gemstone",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM030_025_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_109_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_017_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM001_015_00": {
+        "name": "Vitalily",
+        "explain": "A plant that releases a healing nectar into the air when struck.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0009"
+    },
+    "GM800_003_51": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM750_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0035"
+    },
+    "GM800_002_52": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM201_000_00": {
+        "name": "<REF Item_IT_19>",
+        "explain": "<REF Item_IT_EXP_19>",
+        "icon": "Trap",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM550_000_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM034_016_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_163_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Ivory",
+        "map_icon": "INVALID"
+    },
+    "GM250_002_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM650_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM512_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Egg",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM030_031_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_051_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_054_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_54": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_132_00": {
+        "name": "<REF Item_IT_99>",
+        "explain": "<REF Item_IT_EXP_99>",
+        "icon": "Dung",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM001_009_00": {
+        "name": "Fulgurite Pillar",
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0028"
+    },
+    "GM451_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0044"
+    },
+    "GM250_000_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM800_001_60": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM251_000_00": {
+        "name": null,
+        "explain": null
+    },
+    "GM030_009_00": {
+        "name": "Traces of Digging",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_015_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_126_00": {
+        "name": "<REF Item_IT_101>",
+        "explain": "<REF Item_IT_EXP_101>",
+        "icon": "Dung",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM810_004_00": {
+        "name": "Training Area Entrance",
+        "explain": "A path leading from Base Camp to the Training Area.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM800_004_50": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_59": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_010_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM000_108_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM030_010_00": {
+        "name": "Scratch Marks",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM810_005_00": {
+        "name": "Training Area Exit",
+        "explain": "A path leading from the Training Area to Base Camp.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM800_001_52": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_110_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_116_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Mushroom",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM000_105_00": {
+        "name": "<REF Item_IT_118>",
+        "explain": "<REF Item_IT_EXP_118>",
+        "icon": "Herb",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM000_161_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_55": {
+        "name": "Area 9 Lookout Hill",
+        "explain": "<REF RefEnvironment_TentTips_Caution>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_013_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM407_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0049"
+    },
+    "GM037_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0042"
+    },
+    "GM030_053_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_61": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_017_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM657_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM036_015_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_59": {
+        "name": "Area 13 Oasis",
+        "explain": "<REF RefEnvironment_TentTips_Danger>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_015_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_51": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0040"
+    },
+    "GM034_005_00": {
+        "name": "Chunk of Hard Rock",
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM551_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Bomb",
+        "color": "Red",
+        "map_icon": "MAP_0004"
+    },
+    "GM036_013_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_61": {
+        "name": "Area 16 Bone Desert",
+        "explain": "<REF RefEnvironment_TentTips_Caution>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_180_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_52": {
+        "name": "Area 14 Underground Water Vein",
+        "explain": "<REF RefEnvironment_TentTips_Safety>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM152_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Meat",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM034_010_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM030_057_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM000_168_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_119_00": {
+        "name": "<REF Item_IT_66>",
+        "explain": "<REF Item_IT_EXP_66>",
+        "icon": "Mushroom",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_53": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_62": {
+        "name": "Area 8 Southwest",
+        "explain": "<REF RefEnvironment_TentTips_Danger>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_01": {
+        "name": "<REF RefEnvironment_0004_0000>",
+        "explain": "Home to the Sandfolk, a tribe of livestock farmers in the Windward Plains. When the Sandtide comes, they shelter inside their homes.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0003"
+    },
+    "GM800_002_51": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_53": {
+        "name": "Area 3 South",
+        "explain": "<REF RefEnvironment_TentTips_Caution>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_056_00": {
+        "name": "Half-Eaten Carcass",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_158_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM800_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0039"
+    },
+    "GM034_017_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM800_009_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0000"
+    },
+    "GM000_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Pink",
+        "map_icon": "INVALID"
+    },
+    "GM810_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM000_172_00": {
+        "name": "Glass Algae",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Sgreen",
+        "map_icon": "INVALID"
+    },
+    "GM000_122_00": {
+        "name": "Bonepile",
+        "explain": "A place for gathering bone materials.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM030_047_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_002_50": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM800_004_52": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_149_00": {
+        "name": "Fulgurite Crystal",
+        "explain": "A place for gathering special items.",
+        "icon": "Pouch",
+        "color": "Blue",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_54": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM200_002_00": {
+        "name": "<REF Item_IT_14>",
+        "explain": "<REF Item_IT_EXP_14>",
+        "icon": "Bomb",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM555_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM030_064_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM507_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_57": {
+        "name": "Area 8 Southeast",
+        "explain": "<REF RefEnvironment_TentTips_Danger>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_114_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM036_016_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM034_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM506_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Green",
+        "map_icon": "INVALID"
+    },
+    "GM503_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0021"
+    },
+    "GM030_029_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_102_00": {
+        "name": "<REF Item_IT_76>",
+        "explain": "<REF Item_IT_EXP_76>",
+        "icon": "Herb",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_56": {
+        "name": "Area 10 Southeast",
+        "explain": "<REF RefEnvironment_TentTips_Danger>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM100_003_00": {
+        "name": "Makeshift Camp",
+        "explain": "A temporary camp with all the necessities for a hunt. Change your equipment and organize your items here. Accessible by fast travel with <ICON UI_DECIDE>.",
+        "icon": "Tent",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM502_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0021"
+    },
+    "GM034_001_00": {
+        "name": "Razor-Sharp Claw Shard",
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM009_000_00": {
+        "name": "Grounding Rock",
+        "explain": "A large rock pillar that intercepts lightning strikes, affording protection to the surrounding area.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0024"
+    },
+    "GM001_013_01": {
+        "name": "Brush",
+        "explain": "An area covered in tall grass that can conceal a crouching hunter from sight.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0022"
+    },
+    "GM036_014_00": {
+        "name": "<REF Item_IT_71>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM036_020_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM036_004_00": {
+        "name": "<REF Item_IT_189>",
+        "explain": null,
+        "icon": "Slinger",
+        "color": "Red",
+        "map_icon": "INVALID"
+    },
+    "GM001_008_00": {
+        "name": "Fulgurite Pillar",
+        "explain": null
+    },
+    "GM509_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0021"
+    },
+    "GM800_000_51": {
+        "name": "Area 6 Valley Hideaway",
+        "explain": "<REF RefEnvironment_TentTips_Safety>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_115_00": {
+        "name": "<REF Item_IT_114>",
+        "explain": "<REF Item_IT_EXP_114>",
+        "icon": "Mushroom",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM800_001_55": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM001_020_00": {
+        "name": "Brush",
+        "explain": "An area covered in tall grass that can conceal a crouching hunter from sight.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0022"
+    },
+    "GM030_115_00": {
+        "name": "Mucus",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_111_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Seed",
+        "color": "White",
+        "map_icon": "INVALID"
+    },
+    "GM030_065_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_019_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_142_00": {
+        "name": "<REF Item_IT_28>",
+        "explain": "<REF Item_IT_EXP_28>",
+        "icon": "Webbing",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM034_019_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM800_003_54": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_156_00": {
+        "name": "Magnificent Fossil",
+        "explain": "A place for gathering rare special items.",
+        "icon": "Pouch",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM031_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM037_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0042"
+    },
+    "GM200_003_00": {
+        "name": "Demeowlisher Bomb",
+        "explain": "A large bomb set by your Palico. Just like a regular Large Barrel Bomb, it can be rolled after placing, and detonates on impact.",
+        "icon": "Bomb",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM032_001_00": {
+        "name": "Bonepile",
+        "explain": "A place for gathering bone materials.",
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM203_000_00": {
+        "name": "Acorn Shocker",
+        "explain": "A trap set by your Palico. Can be used to stop a monster's movements. Similar to shock traps, this trap can be used to capture monsters.",
+        "icon": "Trap",
+        "color": "Lemon",
+        "map_icon": "INVALID"
+    },
+    "GM604_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    },
+    "GM605_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0028"
+    },
+    "GM034_020_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM034_012_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM000_145_00": {
+        "name": "<REF Item_IT_290>",
+        "explain": "<REF Item_IT_EXP_290>",
+        "icon": "Husk",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM800_000_60": {
+        "name": "Area 16 Northwest",
+        "explain": "<REF RefEnvironment_TentTips_Caution>",
+        "icon": "Tent",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_003_00": {
+        "name": "Dung",
+        "explain": null,
+        "icon": "Dung",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM030_011_00": {
+        "name": "Fulgurite Shard",
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM034_018_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Rare Question Mark",
+        "color": "None",
+        "map_icon": "INVALID"
+    },
+    "GM030_074_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_027_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_016_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_028_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM000_144_00": {
+        "name": "<REF Item_IT_291>",
+        "explain": "<REF Item_IT_EXP_291>",
+        "icon": "Husk",
+        "color": "Rose",
+        "map_icon": "INVALID"
+    },
+    "GM030_018_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM030_104_00": {
+        "name": null,
+        "explain": null,
+        "icon": "unk2",
+        "color": "Yellow",
+        "map_icon": "INVALID"
+    },
+    "GM033_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM001_018_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM001_017_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM511_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    },
+    "GM610_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM811_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM811_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM608_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM000_124_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM811_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM654_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM658_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM020_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM811_008_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM811_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM002_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0023"
+    },
+    "GM018_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM654_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM608_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM850_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM811_005_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM501_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Herb",
+        "color": "Mos",
+        "map_icon": "INVALID"
+    },
+    "GM511_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    },
+    "GM656_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM503_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0021"
+    },
+    "GM810_900_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM001_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM001_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM000_156_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Vermilion",
+        "map_icon": "INVALID"
+    },
+    "GM852_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM000_122_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0007"
+    },
+    "GM853_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM659_000_01": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM000_154_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Orange",
+        "map_icon": "INVALID"
+    },
+    "GM811_100_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM000_164_01": {
+        "name": null,
+        "explain": null,
+        "icon": "Pouch",
+        "color": "Gray",
+        "map_icon": "INVALID"
+    },
+    "GM853_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM553_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM018_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM659_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM811_006_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM609_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM607_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM811_007_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM656_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM851_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM100_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Tent",
+        "color": "Brown",
+        "map_icon": "INVALID"
+    },
+    "GM002_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0023"
+    },
+    "GM554_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM651_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM500_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "Question Mark",
+        "color": "Gray",
+        "map_icon": "MAP_0004"
+    },
+    "GM603_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM001_019_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM811_004_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM511_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    },
+    "GM851_001_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM019_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM554_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM811_900_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0032"
+    },
+    "GM553_002_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM204_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "INVALID"
+    },
+    "GM412_000_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0004"
+    },
+    "GM511_003_00": {
+        "name": null,
+        "explain": null,
+        "icon": "INVALID",
+        "color": "",
+        "map_icon": "MAP_0043"
+    }
+}
