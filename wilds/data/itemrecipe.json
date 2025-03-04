@@ -233,6 +233,32 @@
             "ITEM_0088"
         ]
     },
+    "RECIPE_020": {
+        "idx": 5,
+        "result": "Deodorant",
+        "materials": [
+            "Smokenut",
+            "Bitterbug Broth"
+        ],
+        "result_id": "ITEM_0238",
+        "materials_id": [
+            "ITEM_0098",
+            "ITEM_0028"
+        ]
+    },
+    "RECIPE_021": {
+        "idx": 6,
+        "result": "Cleanser",
+        "materials": [
+            "Fire Herb",
+            "Godbug Essence"
+        ],
+        "result_id": "ITEM_0205",
+        "materials_id": [
+            "ITEM_0142",
+            "ITEM_0030"
+        ]
+    },
     "RECIPE_022": {
         "idx": 7,
         "result": "Max Potion",
@@ -272,6 +298,32 @@
             "ITEM_0087"
         ]
     },
+    "RECIPE_025": {
+        "idx": 10,
+        "result": "Ancient Potion",
+        "materials": [
+            "Immunizer",
+            "Nourishing Extract"
+        ],
+        "result_id": "ITEM_0004",
+        "materials_id": [
+            "ITEM_0191",
+            "ITEM_0465"
+        ]
+    },
+    "RECIPE_026": {
+        "idx": 12,
+        "result": "Dust of Life",
+        "materials": [
+            "Godbug Essence",
+            "Gloamgrass Bud"
+        ],
+        "result_id": "ITEM_0204",
+        "materials_id": [
+            "ITEM_0030",
+            "ITEM_0151"
+        ]
+    },
     "RECIPE_027": {
         "idx": 13,
         "result": "Herbal Powder",
@@ -298,6 +350,45 @@
             "ITEM_0027"
         ]
     },
+    "RECIPE_029": {
+        "idx": 16,
+        "result": "Hot Drink",
+        "materials": [
+            "Hot Pepper",
+            "---"
+        ],
+        "result_id": "ITEM_0193",
+        "materials_id": [
+            "ITEM_0504",
+            "NONE"
+        ]
+    },
+    "RECIPE_030": {
+        "idx": 15,
+        "result": "Cool Drink",
+        "materials": [
+            "Chillshroom",
+            "---"
+        ],
+        "result_id": "ITEM_0192",
+        "materials_id": [
+            "ITEM_0503",
+            "NONE"
+        ]
+    },
+    "RECIPE_031": {
+        "idx": 17,
+        "result": "Dash Juice",
+        "materials": [
+            "Catalyst",
+            "Dash Extract"
+        ],
+        "result_id": "ITEM_0190",
+        "materials_id": [
+            "ITEM_0660",
+            "ITEM_0561"
+        ]
+    },
     "RECIPE_032": {
         "idx": 18,
         "result": "Demondrug",
@@ -309,6 +400,19 @@
         "materials_id": [
             "ITEM_0660",
             "ITEM_0152"
+        ]
+    },
+    "RECIPE_033": {
+        "idx": 19,
+        "result": "Mega Demondrug",
+        "materials": [
+            "Nourishing Extract",
+            "Demondrug"
+        ],
+        "result_id": "ITEM_0196",
+        "materials_id": [
+            "ITEM_0465",
+            "ITEM_0194"
         ]
     },
     "RECIPE_034": {
@@ -350,6 +454,19 @@
             "ITEM_0153"
         ]
     },
+    "RECIPE_037": {
+        "idx": 23,
+        "result": "Mega Armorskin",
+        "materials": [
+            "Nourishing Extract",
+            "Armorskin"
+        ],
+        "result_id": "ITEM_0199",
+        "materials_id": [
+            "ITEM_0465",
+            "ITEM_0197"
+        ]
+    },
     "RECIPE_038": {
         "idx": 24,
         "result": "Hardshell Powder",
@@ -374,6 +491,19 @@
         "materials_id": [
             "ITEM_0191",
             "ITEM_0153"
+        ]
+    },
+    "RECIPE_040": {
+        "idx": 26,
+        "result": "Farcaster",
+        "materials": [
+            "Smokenut",
+            "Exciteshroom"
+        ],
+        "result_id": "ITEM_0100",
+        "materials_id": [
+            "ITEM_0098",
+            "ITEM_0097"
         ]
     },
     "RECIPE_041": {
@@ -415,6 +545,32 @@
             "ITEM_0663"
         ]
     },
+    "RECIPE_044": {
+        "idx": 30,
+        "result": "Mega Barrel Bomb",
+        "materials": [
+            "Devil's Blight",
+            "Large Barrel Bomb"
+        ],
+        "result_id": "ITEM_0223",
+        "materials_id": [
+            "ITEM_0155",
+            "ITEM_0013"
+        ]
+    },
+    "RECIPE_045": {
+        "idx": 31,
+        "result": "Mega Barrel Bomb",
+        "materials": [
+            "Gunpowderfish Scale",
+            "Large Barrel Bomb"
+        ],
+        "result_id": "ITEM_0223",
+        "materials_id": [
+            "ITEM_0666",
+            "ITEM_0013"
+        ]
+    },
     "RECIPE_046": {
         "idx": 32,
         "result": "Smoke Bomb",
@@ -452,6 +608,19 @@
         "materials_id": [
             "ITEM_0093",
             "ITEM_0154"
+        ]
+    },
+    "RECIPE_049": {
+        "idx": 38,
+        "result": "Luring Pod",
+        "materials": [
+            "Exciteshroom",
+            "Bitterbug Broth"
+        ],
+        "result_id": "ITEM_0222",
+        "materials_id": [
+            "ITEM_0097",
+            "ITEM_0028"
         ]
     },
     "RECIPE_050": {
@@ -571,6 +740,19 @@
             "ITEM_0208"
         ]
     },
+    "RECIPE_059": {
+        "idx": 49,
+        "result": "Sticky Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Bomb Arowana Scale"
+        ],
+        "result_id": "ITEM_0046",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0668"
+        ]
+    },
     "RECIPE_060": {
         "idx": 50,
         "result": "Cluster Bomb",
@@ -582,6 +764,32 @@
         "materials_id": [
             "ITEM_0317",
             "NONE"
+        ]
+    },
+    "RECIPE_061": {
+        "idx": 52,
+        "result": "Slicing Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Burst Arowana Scale"
+        ],
+        "result_id": "ITEM_0068",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0667"
+        ]
+    },
+    "RECIPE_062": {
+        "idx": 61,
+        "result": "Exhaust Ammo",
+        "materials": [
+            "Normal Ammo",
+            "Exciteshroom"
+        ],
+        "result_id": "ITEM_0443",
+        "materials_id": [
+            "ITEM_0037",
+            "ITEM_0097"
         ]
     },
     "RECIPE_063": {

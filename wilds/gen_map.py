@@ -36,7 +36,10 @@ def save_map_area_number(stagearea_id, stage="ST101"):
     texs = [MAP_NUMS[d] for d in digits]
     #texs = [tex.crop((50, 0, tex.width - 50, tex.height)) for tex in texs]
     tex = combine_images_horz(texs, 0)
-    tex = multiply_image_by_color(tex, STAGE_COLORS[stage])
+    color = STAGE_COLORS.get(stage)
+    if color is None:
+        color = STAGE_COLORS["ST105"]
+    tex = multiply_image_by_color(tex, color)
     tex.save(os.path.join("wilds/data/map_nums", stagearea_id + ".png"))
 
 def get_stage_area():

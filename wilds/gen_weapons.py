@@ -94,6 +94,7 @@ def parse_weapons(self):
         wp_type = wp["_Type"]
         id = wp[WP_TO_KEY[wp_type]]
         weapons[wp_type][id] = {
+                "index": wp["_Index"],
                 "name": self.get_msg_by_guid(wp["_Name"]),
                 "explain": self.get_msg_by_guid(wp["_Explain"]),
                 "model_id": wp["_ModelId"],

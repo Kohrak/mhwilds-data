@@ -45,6 +45,7 @@ def parse_armor(self):
             continue
         armor_series[id]["pieces"][piece_type] = {
             "type": piece_type,
+            "data_id": piece["_DataValue"],
             "name": self.get_msg_by_guid(piece["_Name"]),
             "explain": self.get_msg_by_guid(piece["_Explain"]),
             "defense": piece["_Defense"],

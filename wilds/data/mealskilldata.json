@@ -1,7 +1,7 @@
 {
     "NONE": {
-        "name": null,
-        "explain": null,
+        "name": "-",
+        "explain": "-",
         "icon": "INVALID"
     },
     "SKILL_003": {
@@ -10,8 +10,8 @@
         "icon": "Defense"
     },
     "SKILL_004": {
-        "name": null,
-        "explain": null,
+        "name": "Defender Meal (Hi)",
+        "explain": "Often decreases damage taken.",
         "icon": "Defense"
     },
     "SKILL_005": {
@@ -20,8 +20,8 @@
         "icon": "Stamina"
     },
     "SKILL_006": {
-        "name": null,
-        "explain": null,
+        "name": "Black Belt Meal (Hi)",
+        "explain": "Greatly reduces stamina depletion when performing stamina-draining moves such as evading, etc.",
         "icon": "Stamina"
     },
     "SKILL_007": {
@@ -30,33 +30,33 @@
         "icon": "Calm"
     },
     "SKILL_008": {
-        "name": null,
-        "explain": null,
+        "name": "Tumbler Meal (Hi)",
+        "explain": "Extends the invulnerability period when evading.",
         "icon": "Calm"
     },
     "SKILL_009": {
-        "name": null,
-        "explain": null,
+        "name": "Moxie Meal (Lo)",
+        "explain": "Prevents fainting one time when damage taken exceeds your remaining health.",
         "icon": "Calm"
     },
     "SKILL_010": {
-        "name": null,
-        "explain": null,
+        "name": "Moxie Meal (Hi)",
+        "explain": "Prevents fainting one time and heals you when damage taken exceeds your remaining health.",
         "icon": "Calm"
     },
     "SKILL_011": {
-        "name": null,
-        "explain": null,
+        "name": "Caprice Meal (Lo)",
+        "explain": "Repeatedly activates a temporary attack boost at random intervals.",
         "icon": "Attack"
     },
     "SKILL_012": {
-        "name": null,
-        "explain": null,
+        "name": "Caprice Meal (Hi)",
+        "explain": "Repeatedly activates a large temporary attack boost at random intervals.",
         "icon": "Attack"
     },
     "SKILL_013": {
         "name": "Immunizer Meal",
-        "explain": "Lessens the effects of a variety of ailments.",
+        "explain": "Lessens the effects of various ailments.",
         "icon": "Defense"
     },
     "SKILL_014": {
@@ -70,83 +70,83 @@
         "icon": "Defense"
     },
     "SKILL_016": {
-        "name": null,
-        "explain": null,
+        "name": "Swimmer Meal",
+        "explain": "Increases attack when wet.",
         "icon": "Attack"
     },
     "SKILL_017": {
-        "name": null,
-        "explain": null,
+        "name": "Specialist Meal",
+        "explain": "Increases the potency of abnormal status attacks.",
         "icon": "Element"
     },
     "SKILL_018": {
-        "name": null,
-        "explain": null,
+        "name": "Gatherer Meal",
+        "explain": "Sometimes increases the number of resources per gather of bones, ore, and other gatherable items.",
         "icon": "Pouch"
     },
     "SKILL_019": {
-        "name": null,
+        "name": "Insurance Meal",
         "explain": null,
         "icon": "Calm"
     },
     "SKILL_020": {
-        "name": null,
+        "name": "Lucky Meal",
         "explain": null,
         "icon": "Pouch"
     },
     "SKILL_021": {
-        "name": null,
+        "name": "Carver Meal",
         "explain": null,
         "icon": "Pouch"
     },
     "SKILL_022": {
-        "name": null,
+        "name": "Capture Pro Meal",
         "explain": null,
         "icon": "Pouch"
     },
     "SKILL_023": {
-        "name": null,
+        "name": "Exploiter Meal",
         "explain": null,
         "icon": "Pouch"
     },
     "SKILL_024": {
         "name": "Rider Meal",
-        "explain": "Makes it easier to mount monsters.",
+        "explain": null,
         "icon": "Calm"
     },
     "SKILL_025": {
         "name": "Riser Meal",
-        "explain": "Extends the invulnerability period when getting up.",
+        "explain": null,
         "icon": "Calm"
     },
     "SKILL_026": {
         "name": "Iron Carver Meal",
-        "explain": "Prevents knockbacks from attacks while carving.",
+        "explain": null,
         "icon": "Calm"
     },
     "SKILL_027": {
         "name": "Escape Artist Meal",
-        "explain": "Decreases stamina depletion when fleeing from large monsters.",
+        "explain": null,
         "icon": "Stamina"
     },
     "SKILL_028": {
         "name": "Balanced Meal",
-        "explain": "Prevents you from getting knocked on your butt.",
+        "explain": null,
         "icon": "Calm"
     },
     "SKILL_029": {
-        "name": null,
+        "name": "Trainer Meal",
         "explain": null,
         "icon": "Calm"
     },
     "SKILL_030": {
         "name": "Bulldozer Meal",
-        "explain": "Increases attack power when you strike right after an attack is deflected.",
+        "explain": null,
         "icon": "Attack"
     },
     "SKILL_031": {
-        "name": "Deflector Meal",
-        "explain": "Helps your weapon retain sharpness when attacks are deflected.",
+        "name": null,
+        "explain": null,
         "icon": "Whetstone"
     },
     "SKILL_032": {
@@ -155,33 +155,33 @@
         "icon": "Calm"
     },
     "SKILL_033": {
-        "name": null,
+        "name": "Hardy Meal",
         "explain": null,
         "icon": "Defense"
     },
     "SKILL_034": {
         "name": "Piping-Hot Meal",
-        "explain": "Greatly increases attack when health is dangerously low.",
+        "explain": null,
         "icon": "Power"
     },
     "SKILL_035": {
         "name": "Break-time Meal",
-        "explain": "Grants a temporary attack boost when you use the Kick Back gesture for a while.",
+        "explain": null,
         "icon": "Attack"
     },
     "SKILL_036": {
-        "name": null,
+        "name": "Fortune Hunter Meal",
         "explain": null,
         "icon": "Pouch"
     },
     "SKILL_037": {
         "name": "Fisher Meal",
-        "explain": "Increases the likelihood that fish will bite when fishing.",
+        "explain": null,
         "icon": "Calm"
     },
     "SKILL_038": {
         "name": "Top Cat Meal",
-        "explain": "Powers up Palico attack and defense.",
+        "explain": null,
         "icon": "Power"
     }
 }

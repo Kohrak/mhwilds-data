@@ -17,7 +17,7 @@ MSG_FILES = ["combined_msgs.json"]
 
 VERSIONS = {
     "poglst": 0,
-    "pog": 10,
+    "pog": 12,
 }
 
 def get_stage_endemic_pop(stage_id):
@@ -60,7 +60,10 @@ def get_stage_endemic_context(stage_id):
     if not os.path.exists("wilds/data/map_nums"):
         os.makedirs("wilds/data/map_nums")
     for pogpath in poglist:
-        f = open(os.path.join(BASE, "natives/STM/", pogpath) + f".{VERSIONS["pog"]}.json")
+        path = os.path.join(BASE, "natives/STM/", pogpath) + f".{VERSIONS["pog"]}.json"
+        if not os.path.exists(path):
+            continue
+        f = open(path)
         pog = json.load(f)['nodes']
         info = pog[1][0]
         id = info["rsz"]["_EmId"]
@@ -80,66 +83,70 @@ def get_endemic_pog(stage_id):
 def save_endemic():
     endemic = {}
     enemies = get_enemies()
-    stages = ["st101"]
+    stages = ["st101", "st102", "st103", "st104", "st105", "st401", "st201", "st202", "st203", "st203", "st204", "st402", "st403", "st404", "st503"]
     stage_endemic = {}
     for stage in stages:
         pop_points, context_points = get_endemic_pog(stage)
-        for e, v in pop_points.items():
-            if not enemies.get(e):
-                continue
+        if pop_points != ([], []):
+            for p in pop_points.items():
+                e = p[0]
+                v = p[1]
+                if not enemies.get(e):
+                    continue
 
-            # initialize endemic life if its not already in
-            enemy = enemies[e]
-            if not endemic.get(e):
-                endemic[e] = {
-                        "name": enemy["name"],
-                        "explain": enemy["explain"],
-                        "memo": enemy["memo"],
-                        "name_langs": enemy["name_langs"],
-                        "explain_langs": enemy["explain_langs"],
-                        "memo_langs": enemy["memo_langs"],
-                        "color": enemy["color"],
-                        "item_icon": enemy["item_icon"],
-                        "map_icon": enemy["map_icon"],
-                        "animal_icon": enemy["animal_icon"],
-                        "reward_data": enemy["reward_data"],
-                    }
+                # initialize endemic life if its not already in
+                enemy = enemies[e]
+                if not endemic.get(e):
+                    endemic[e] = {
+                            "name": enemy["name"],
+                            "explain": enemy["explain"],
+                            "memo": enemy["memo"],
+                            "name_langs": enemy["name_langs"],
+                            "explain_langs": enemy["explain_langs"],
+                            "memo_langs": enemy["memo_langs"],
+                            "color": enemy["color"],
+                            "item_icon": enemy["item_icon"],
+                            "map_icon": enemy["map_icon"],
+                            "animal_icon": enemy["animal_icon"],
+                            "reward_data": enemy["reward_data"],
+                        }
 
-            # add stage data
-            if not endemic[e].get(stage):
-                endemic[e][stage] = {}
-            category = v["target"]["_Category"]
-            endemic[e][stage] = {
-                "target": {
-                    "category": category,
-                },
-                "points": v["points"],
-            }
-            if category == "GIMMICK":
-                endemic[e][stage]["target"]["gimmicks"] = v["target"]["_Param"]["_GmIds"]
+                # add stage data
+                if not endemic[e].get(stage):
+                    endemic[e][stage] = {}
+                category = v["target"]["_Category"]
+                endemic[e][stage] = {
+                    "target": {
+                        "category": category,
+                    },
+                    "points": v["points"],
+                }
+                if category == "GIMMICK":
+                    endemic[e][stage]["target"]["gimmicks"] = v["target"]["_Param"]["_GmIds"]
 
-        for e, v in context_points.items():
-            if not enemies.get(e):
-                continue
-            enemy = enemies[e]
-            params = None
-            if not endemic.get(e):
-                endemic[e] = {
-                        "name": enemy["name"],
-                        "explain": enemy["explain"],
-                        "memo": enemy["memo"],
-                        "name_langs": enemy["name_langs"],
-                        "explain_langs": enemy["explain_langs"],
-                        "memo_langs": enemy["memo_langs"],
-                        "color": enemy["color"],
-                        "item_icon": enemy["item_icon"],
-                        "map_icon": enemy["map_icon"],
-                        "animal_icon": enemy["animal_icon"],
-                        "reward_data": enemy["reward_data"],
-                    }
-            if not endemic[e].get(stage):
-                endemic[e][stage] = {"points": []}
-            endemic[e][stage]["points"] += v
+        if context_points is not []:
+            for e, v in context_points.items():
+                if not enemies.get(e):
+                    continue
+                enemy = enemies[e]
+                params = None
+                if not endemic.get(e):
+                    endemic[e] = {
+                            "name": enemy["name"],
+                            "explain": enemy["explain"],
+                            "memo": enemy["memo"],
+                            "name_langs": enemy["name_langs"],
+                            "explain_langs": enemy["explain_langs"],
+                            "memo_langs": enemy["memo_langs"],
+                            "color": enemy["color"],
+                            "item_icon": enemy["item_icon"],
+                            "map_icon": enemy["map_icon"],
+                            "animal_icon": enemy["animal_icon"],
+                            "reward_data": enemy["reward_data"],
+                        }
+                if not endemic[e].get(stage):
+                    endemic[e][stage] = {"points": []}
+                endemic[e][stage]["points"] += v
         
     with open(f"wilds/data/endemic.json", 'w') as f:
         json.dump(endemic, f, indent=4)

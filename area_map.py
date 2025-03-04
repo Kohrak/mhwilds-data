@@ -10,7 +10,7 @@ from vispy.visuals.visual import VisualShare
 BASE = os.environ["BASE"]
 
 def get_landmarks():
-    f = open(os.path.join(BASE, "../wilds_bench/natives/STM/GameDesign/NPC/Partner/CommonData/SituationSpeech/NPCLandmarkPointData.user.3.json"))
+    f = open(os.path.join(BASE, "natives/STM/GameDesign/NPC/Partner/CommonData/SituationSpeech/NPCLandmarkPointData.user.3.json"))
     landmarks = json.load(f)["app.user_data.NpcLandMarkPointData"]["_DataList"]
     lm_points = []
     lm_names = []

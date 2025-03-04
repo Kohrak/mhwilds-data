@@ -14,17 +14,23 @@ BASE = os.environ["BASE"]
 
 MSG_FILES = ["combined_msgs.json"]
 
-def getpog():
-    f = open(os.path.join(BASE, "natives/STM/GameDesign/Stage/st101/Layout/Loaded/Gimmick/PointGraph/st101_PointList_Gimmick.poglst.0.json"))
+def getpog(stage):
+    path = os.path.join(BASE, f"natives/STM/GameDesign/Stage/{stage}/Layout/Loaded/Gimmick/PointGraph/{stage}_PointList_Gimmick.poglst.0.json")
+    if not os.path.exists(path):
+        path = os.path.join(BASE, f"natives/STM/GameDesign/Stage/{stage}/Layout/Loaded/Gimmick/Layout/{stage}_PointList_Gimmick.poglst.0.json")
+    f = open(path)
     poglist = json.load(f)["paths"]
-    pog_ver = 10
+    pog_ver = 12
     base = os.path.join(BASE, "natives/STM/")
 
     points = []
     names = []
     weathers = []
     for pogpath in poglist:
-        f = open(os.path.join(base, pogpath) + f".{pog_ver}.json")
+        path = os.path.join(base, pogpath) + f".{pog_ver}.json"
+        if not os.path.exists(path):
+            continue
+        f = open(path)
         pog = json.load(f)['nodes']
         if pog[0][0]["type"] != "app.point_graph_data.ContextLayoutGimmick":
             continue
@@ -162,26 +168,27 @@ def parse_gimmicks(self):
             map_tex = ICONS_TEX[map_icon_idx].copy()
             map_tex = multiply_image_by_color(map_tex, color[:3])
             map_tex.save(map_icon_path)
-
-    pog_data = getpog()
-    for point, name, weather in zip(*pog_data):
-        if not gimmicks.get(name):
-            gimmicks[name] = {
-                "name": name,
-                "name_lang": None,
-                "explain": None,
-                "explain_lang": None,
-                "icon": "Question Mark",
-                "color": "None",
-                "map_icon": None,
-                "map_filtering_type": None,
-                "points": [],
-                "weather_environments": None,
-                "weather_event": None,
-            }
-        gimmicks[name]["points"].append(point)
-        gimmicks[name]["weather_environments"] = weather["_EnvironmentFlags"].split("|")
-        gimmicks[name]["weather_repop"] = weather["_IsEnableEnvironmentRepop"]
+    
+    for st in ["st101", "st102", "st103", "st104", "st105", "st401", "st201", "st202", "st203", "st203", "st204", "st402", "st403", "st404", "st503"]:
+        pog_data = getpog(st)
+        for point, name, weather in zip(*pog_data):
+            if not gimmicks.get(name):
+                gimmicks[name] = {
+                    "name": name,
+                    "name_lang": None,
+                    "explain": None,
+                    "explain_lang": None,
+                    "icon": "Question Mark",
+                    "color": "None",
+                    "map_icon": None,
+                    "map_filtering_type": None,
+                    "points": [],
+                    "weather_environments": None,
+                    "weather_event": None,
+                }
+            gimmicks[name]["points"].append(point)
+            gimmicks[name]["weather_environments"] = weather["_EnvironmentFlags"].split("|")
+            gimmicks[name]["weather_repop"] = weather["_IsEnableEnvironmentRepop"]
 
     return gimmicks
 

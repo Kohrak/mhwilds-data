@@ -3,8 +3,8 @@
         "0": {
             "id": "NONE",
             "lvl": 0,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_1",
+            "explain": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_EXP1",
             "open_skills": [],
             "data_values": [
                 0,
@@ -14,11 +14,1682 @@
             ]
         }
     },
+    "HunterSkill_000": {
+        "1": {
+            "id": "HunterSkill_000",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_2",
+            "explain": "Attack +3",
+            "open_skills": [
+                "HunterSkill_000"
+            ],
+            "data_values": [
+                100,
+                3,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_000",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_3",
+            "explain": "Attack +5",
+            "open_skills": [
+                "HunterSkill_000"
+            ],
+            "data_values": [
+                100,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_000",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_4",
+            "explain": "Attack +7",
+            "open_skills": [
+                "HunterSkill_000"
+            ],
+            "data_values": [
+                100,
+                7,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_000",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_5",
+            "explain": "Attack +2% Bonus: +8",
+            "open_skills": [
+                "HunterSkill_000"
+            ],
+            "data_values": [
+                102,
+                8,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_000",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_6",
+            "explain": "Attack +4% Bonus: +9",
+            "open_skills": [
+                "HunterSkill_000"
+            ],
+            "data_values": [
+                104,
+                9,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_060": {
+        "1": {
+            "id": "HunterSkill_060",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_181",
+            "explain": "Attack +5 while active.",
+            "open_skills": [
+                "HunterSkill_060"
+            ],
+            "data_values": [
+                5,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_060",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_182",
+            "explain": "Attack +10 while active.",
+            "open_skills": [
+                "HunterSkill_060"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_060",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_183",
+            "explain": "Attack +15 while active.",
+            "open_skills": [
+                "HunterSkill_060"
+            ],
+            "data_values": [
+                15,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_060",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_184",
+            "explain": "Attack +20 while active.",
+            "open_skills": [
+                "HunterSkill_060"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_060",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_185",
+            "explain": "Attack +25 while active.",
+            "open_skills": [
+                "HunterSkill_060"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_115": {
+        "1": {
+            "id": "HunterSkill_115",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_333",
+            "explain": "Attack +10 while active.",
+            "open_skills": [
+                "HunterSkill_115"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_115",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_334",
+            "explain": "Attack +15 while active.",
+            "open_skills": [
+                "HunterSkill_115"
+            ],
+            "data_values": [
+                15,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_115",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_335",
+            "explain": "Attack +20 while active.",
+            "open_skills": [
+                "HunterSkill_115"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_115",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_497",
+            "explain": "Attack +25 while active.",
+            "open_skills": [
+                "HunterSkill_115"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_115",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_498",
+            "explain": "Attack +30 while active.",
+            "open_skills": [
+                "HunterSkill_115"
+            ],
+            "data_values": [
+                30,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_028": {
+        "1": {
+            "id": "HunterSkill_028",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_108",
+            "explain": "Attack +5% while active.",
+            "open_skills": [
+                "HunterSkill_028"
+            ],
+            "data_values": [
+                105,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_028",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_109",
+            "explain": "Attack +10% while active.",
+            "open_skills": [
+                "HunterSkill_028"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_028",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_110",
+            "explain": "Attack +15% while active.",
+            "open_skills": [
+                "HunterSkill_028"
+            ],
+            "data_values": [
+                115,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_059": {
+        "1": {
+            "id": "HunterSkill_059",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_178",
+            "explain": "Attack +3 while active.",
+            "open_skills": [
+                "HunterSkill_059"
+            ],
+            "data_values": [
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_059",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_179",
+            "explain": "Attack +6 while active.",
+            "open_skills": [
+                "HunterSkill_059"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_059",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_180",
+            "explain": "Attack +10 while active.",
+            "open_skills": [
+                "HunterSkill_059"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_059",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_499",
+            "explain": "Attack +15 while active.",
+            "open_skills": [
+                "HunterSkill_059"
+            ],
+            "data_values": [
+                15,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_059",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_500",
+            "explain": "Attack +20 while active.",
+            "open_skills": [
+                "HunterSkill_059"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_110": {
+        "1": {
+            "id": "HunterSkill_110",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_321",
+            "explain": "Attack +10 while active.",
+            "open_skills": [
+                "HunterSkill_110"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_110",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_322",
+            "explain": "Attack +15 while active. Moderately extends effect time.",
+            "open_skills": [
+                "HunterSkill_110"
+            ],
+            "data_values": [
+                15,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_110",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_323",
+            "explain": "Attack +25 while active. Extends effect time.",
+            "open_skills": [
+                "HunterSkill_110"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_002": {
+        "1": {
+            "id": "HunterSkill_002",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_16",
+            "explain": "Increases damage dealt by critical hits to 28%.",
+            "open_skills": [
+                "HunterSkill_002"
+            ],
+            "data_values": [
+                128,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_002",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_17",
+            "explain": "Increases damage dealt by critical hits to 31%.",
+            "open_skills": [
+                "HunterSkill_002"
+            ],
+            "data_values": [
+                131,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_002",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_18",
+            "explain": "Increases damage dealt by critical hits to 34%.",
+            "open_skills": [
+                "HunterSkill_002"
+            ],
+            "data_values": [
+                134,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_002",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_488",
+            "explain": "Increases damage dealt by critical hits to 37%.",
+            "open_skills": [
+                "HunterSkill_002"
+            ],
+            "data_values": [
+                137,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_002",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_489",
+            "explain": "Increases damage dealt by critical hits to 40%.",
+            "open_skills": [
+                "HunterSkill_002"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_001": {
+        "1": {
+            "id": "HunterSkill_001",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_9",
+            "explain": "Affinity +4%",
+            "open_skills": [
+                "HunterSkill_001"
+            ],
+            "data_values": [
+                4,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_001",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_10",
+            "explain": "Affinity +8%",
+            "open_skills": [
+                "HunterSkill_001"
+            ],
+            "data_values": [
+                8,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_001",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_11",
+            "explain": "Affinity +12%",
+            "open_skills": [
+                "HunterSkill_001"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_001",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_12",
+            "explain": "Affinity +16%",
+            "open_skills": [
+                "HunterSkill_001"
+            ],
+            "data_values": [
+                16,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_001",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_13",
+            "explain": "Affinity +20%",
+            "open_skills": [
+                "HunterSkill_001"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_029": {
+        "1": {
+            "id": "HunterSkill_029",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_111",
+            "explain": "Affinity +50%",
+            "open_skills": [
+                "HunterSkill_029"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_029",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_112",
+            "explain": "Affinity +75%",
+            "open_skills": [
+                "HunterSkill_029"
+            ],
+            "data_values": [
+                75,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_029",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_113",
+            "explain": "Affinity +100%",
+            "open_skills": [
+                "HunterSkill_029"
+            ],
+            "data_values": [
+                100,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_062": {
+        "1": {
+            "id": "HunterSkill_062",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_189",
+            "explain": "Attacks that hit weak points gain affinity +5%, with an extra 3% on wounds.",
+            "open_skills": [
+                "HunterSkill_062"
+            ],
+            "data_values": [
+                5,
+                3,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_062",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_190",
+            "explain": "Attacks that hit weak points gain affinity +10%, with an extra 5% on wounds.",
+            "open_skills": [
+                "HunterSkill_062"
+            ],
+            "data_values": [
+                10,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_062",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_191",
+            "explain": "Attacks that hit weak points gain affinity +15%, with an extra 10% on wounds.",
+            "open_skills": [
+                "HunterSkill_062"
+            ],
+            "data_values": [
+                15,
+                10,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_062",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_501",
+            "explain": "Attacks that hit weak points have 20% increased affinity, with an extra 15% on wounds.",
+            "open_skills": [
+                "HunterSkill_062"
+            ],
+            "data_values": [
+                20,
+                15,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_062",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_502",
+            "explain": "Attacks that hit weak points have 30% increased affinity, with an extra 20% on wounds.",
+            "open_skills": [
+                "HunterSkill_062"
+            ],
+            "data_values": [
+                30,
+                20,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_064": {
+        "1": {
+            "id": "HunterSkill_064",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_197",
+            "explain": "Affinity +10% while active",
+            "open_skills": [
+                "HunterSkill_064"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_064",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_198",
+            "explain": "Affinity +20% while active",
+            "open_skills": [
+                "HunterSkill_064"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_064",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_199",
+            "explain": "Affinity +30% while active",
+            "open_skills": [
+                "HunterSkill_064"
+            ],
+            "data_values": [
+                30,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_005": {
+        "1": {
+            "id": "HunterSkill_005",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_25",
+            "explain": "Fire attack +40",
+            "open_skills": [
+                "HunterSkill_005"
+            ],
+            "data_values": [
+                100,
+                4,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_005",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_26",
+            "explain": "Fire attack +10% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_005"
+            ],
+            "data_values": [
+                110,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_005",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_27",
+            "explain": "Fire attack +20% Bonus: +60",
+            "open_skills": [
+                "HunterSkill_005"
+            ],
+            "data_values": [
+                120,
+                6,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_006": {
+        "1": {
+            "id": "HunterSkill_006",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_30",
+            "explain": "Water attack +40",
+            "open_skills": [
+                "HunterSkill_006"
+            ],
+            "data_values": [
+                100,
+                4,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_006",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_31",
+            "explain": "Water attack +10% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_006"
+            ],
+            "data_values": [
+                110,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_006",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_32",
+            "explain": "Water attack +20% Bonus: +60",
+            "open_skills": [
+                "HunterSkill_006"
+            ],
+            "data_values": [
+                120,
+                6,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_008": {
+        "1": {
+            "id": "HunterSkill_008",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_40",
+            "explain": "Thunder attack +40",
+            "open_skills": [
+                "HunterSkill_008"
+            ],
+            "data_values": [
+                100,
+                4,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_008",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_41",
+            "explain": "Thunder attack +10% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_008"
+            ],
+            "data_values": [
+                110,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_008",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_42",
+            "explain": "Thunder attack +20% Bonus: +60",
+            "open_skills": [
+                "HunterSkill_008"
+            ],
+            "data_values": [
+                120,
+                6,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_007": {
+        "1": {
+            "id": "HunterSkill_007",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_35",
+            "explain": "Ice attack +40",
+            "open_skills": [
+                "HunterSkill_007"
+            ],
+            "data_values": [
+                100,
+                4,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_007",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_36",
+            "explain": "Ice attack +10% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_007"
+            ],
+            "data_values": [
+                110,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_007",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_37",
+            "explain": "Ice attack +20% Bonus: +60",
+            "open_skills": [
+                "HunterSkill_007"
+            ],
+            "data_values": [
+                120,
+                6,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_009": {
+        "1": {
+            "id": "HunterSkill_009",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_45",
+            "explain": "Dragon attack +40",
+            "open_skills": [
+                "HunterSkill_009"
+            ],
+            "data_values": [
+                100,
+                4,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_009",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_46",
+            "explain": "Dragon attack +10% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_009"
+            ],
+            "data_values": [
+                110,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_009",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_47",
+            "explain": "Dragon attack +20% Bonus: +60",
+            "open_skills": [
+                "HunterSkill_009"
+            ],
+            "data_values": [
+                120,
+                6,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_010": {
+        "1": {
+            "id": "HunterSkill_010",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_50",
+            "explain": "Poison buildup +5% Bonus: +10",
+            "open_skills": [
+                "HunterSkill_010"
+            ],
+            "data_values": [
+                105,
+                1,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_010",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_51",
+            "explain": "Poison buildup +10% Bonus: +20",
+            "open_skills": [
+                "HunterSkill_010"
+            ],
+            "data_values": [
+                110,
+                2,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_010",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_52",
+            "explain": "Poison buildup +20% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_010"
+            ],
+            "data_values": [
+                120,
+                5,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_011": {
+        "1": {
+            "id": "HunterSkill_011",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_53",
+            "explain": "Paralysis buildup +5% Bonus: +10",
+            "open_skills": [
+                "HunterSkill_011"
+            ],
+            "data_values": [
+                105,
+                1,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_011",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_54",
+            "explain": "Paralysis buildup +10% Bonus: +20",
+            "open_skills": [
+                "HunterSkill_011"
+            ],
+            "data_values": [
+                110,
+                2,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_011",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_55",
+            "explain": "Paralysis buildup +20% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_011"
+            ],
+            "data_values": [
+                120,
+                5,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_012": {
+        "1": {
+            "id": "HunterSkill_012",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_56",
+            "explain": "Sleep buildup +5% Bonus: +10",
+            "open_skills": [
+                "HunterSkill_012"
+            ],
+            "data_values": [
+                105,
+                1,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_012",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_57",
+            "explain": "Sleep buildup +10% Bonus: +20",
+            "open_skills": [
+                "HunterSkill_012"
+            ],
+            "data_values": [
+                110,
+                2,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_012",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_58",
+            "explain": "Sleep buildup +20% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_012"
+            ],
+            "data_values": [
+                120,
+                5,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_013": {
+        "1": {
+            "id": "HunterSkill_013",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_59",
+            "explain": "Blast buildup +5% Bonus: +10",
+            "open_skills": [
+                "HunterSkill_013"
+            ],
+            "data_values": [
+                105,
+                1,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_013",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_60",
+            "explain": "Blast buildup +10% Bonus: +20",
+            "open_skills": [
+                "HunterSkill_013"
+            ],
+            "data_values": [
+                110,
+                2,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_013",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_61",
+            "explain": "Blast buildup +20% Bonus: +50",
+            "open_skills": [
+                "HunterSkill_013"
+            ],
+            "data_values": [
+                120,
+                5,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_003": {
+        "1": {
+            "id": "HunterSkill_003",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_19",
+            "explain": "Slightly increases elemental damage while active.",
+            "open_skills": [
+                "HunterSkill_003"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_003",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_20",
+            "explain": "Increases elemental damage while active.",
+            "open_skills": [
+                "HunterSkill_003"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_003",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_21",
+            "explain": "Greatly increases elemental damage while active.",
+            "open_skills": [
+                "HunterSkill_003"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_056": {
+        "1": {
+            "id": "HunterSkill_056",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_171",
+            "explain": "Slightly increases abnormal status effects when landing critical hits.",
+            "open_skills": [
+                "HunterSkill_056"
+            ],
+            "data_values": [
+                110,
+                105,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_056",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_452",
+            "explain": "Increases abnormal status effects when landing critical hits.",
+            "open_skills": [
+                "HunterSkill_056"
+            ],
+            "data_values": [
+                120,
+                110,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_056",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_453",
+            "explain": "Greatly increases abnormal status effects when landing critical hits.",
+            "open_skills": [
+                "HunterSkill_056"
+            ],
+            "data_values": [
+                140,
+                120,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_048": {
+        "1": {
+            "id": "HunterSkill_048",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_151",
+            "explain": "Slightly increases elemental damage and status buildup for charged attacks.",
+            "open_skills": [
+                "HunterSkill_048"
+            ],
+            "data_values": [
+                115,
+                105,
+                105,
+                105
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_048",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_152",
+            "explain": "Increases elemental damage and status buildup for charged attacks.",
+            "open_skills": [
+                "HunterSkill_048"
+            ],
+            "data_values": [
+                120,
+                110,
+                110,
+                110
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_048",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_153",
+            "explain": "Greatly increases elemental damage and status buildup for charged attacks.",
+            "open_skills": [
+                "HunterSkill_048"
+            ],
+            "data_values": [
+                125,
+                115,
+                115,
+                115
+            ]
+        }
+    },
+    "HunterSkill_191": {
+        "1": {
+            "id": "HunterSkill_191",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_457",
+            "explain": "While active, deals extra dragon damage after dealing enough elemental damage. Slightly increases dragon attack.",
+            "open_skills": [
+                "HunterSkill_191"
+            ],
+            "data_values": [
+                8,
+                110,
+                150,
+                60
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_191",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_458",
+            "explain": "Increases additional dragon damage and increases dragon attack.",
+            "open_skills": [
+                "HunterSkill_191"
+            ],
+            "data_values": [
+                12,
+                115,
+                200,
+                80
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_191",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_459",
+            "explain": "Further increases additional dragon damage and greatly increases dragon attack",
+            "open_skills": [
+                "HunterSkill_191"
+            ],
+            "data_values": [
+                18,
+                120,
+                280,
+                100
+            ]
+        }
+    },
+    "HunterSkill_014": {
+        "1": {
+            "id": "HunterSkill_014",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_62",
+            "explain": "Weapon sharpness +10",
+            "open_skills": [
+                "HunterSkill_014"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_014",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_63",
+            "explain": "Weapon sharpness +20",
+            "open_skills": [
+                "HunterSkill_014"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_014",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_64",
+            "explain": "Weapon sharpness +30",
+            "open_skills": [
+                "HunterSkill_014"
+            ],
+            "data_values": [
+                160,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_014",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_65",
+            "explain": "Weapon sharpness +40",
+            "open_skills": [
+                "HunterSkill_014"
+            ],
+            "data_values": [
+                180,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_014",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_66",
+            "explain": "Weapon sharpness +50",
+            "open_skills": [
+                "HunterSkill_014"
+            ],
+            "data_values": [
+                200,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_015": {
+        "1": {
+            "id": "HunterSkill_015",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_67",
+            "explain": "Grants a 10% chance of no sharpness loss.",
+            "open_skills": [
+                "HunterSkill_015"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_015",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_68",
+            "explain": "Grants a 25% chance of no sharpness loss.",
+            "open_skills": [
+                "HunterSkill_015"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_015",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_69",
+            "explain": "Grants a 50% chance of no sharpness loss.",
+            "open_skills": [
+                "HunterSkill_015"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_017": {
+        "1": {
+            "id": "HunterSkill_017",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_73",
+            "explain": "Grants no sharpness loss for 30 seconds after activation.",
+            "open_skills": [
+                "HunterSkill_017"
+            ],
+            "data_values": [
+                30,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_017",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_74",
+            "explain": "Grants no sharpness loss for 60 seconds after activation.",
+            "open_skills": [
+                "HunterSkill_017"
+            ],
+            "data_values": [
+                60,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_017",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_75",
+            "explain": "Grants no sharpness loss for 90 seconds after activation.",
+            "open_skills": [
+                "HunterSkill_017"
+            ],
+            "data_values": [
+                90,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_018": {
+        "1": {
+            "id": "HunterSkill_018",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_76",
+            "explain": "50% chance of your attacks not being deflected, +10% damage to hard targets.",
+            "open_skills": [
+                "HunterSkill_018"
+            ],
+            "data_values": [
+                50,
+                110,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_018",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_77",
+            "explain": "100% chance of your attacks not being deflected, +15% damage to hard targets.",
+            "open_skills": [
+                "HunterSkill_018"
+            ],
+            "data_values": [
+                100,
+                115,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_018",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_78",
+            "explain": "100% chance of your attacks not being deflected, +30% damage to hard targets.",
+            "open_skills": [
+                "HunterSkill_018"
+            ],
+            "data_values": [
+                100,
+                130,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_004": {
+        "1": {
+            "id": "HunterSkill_004",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_22",
+            "explain": "Grants an 80% chance of no sharpness loss while active.",
+            "open_skills": [
+                "HunterSkill_004"
+            ],
+            "data_values": [
+                80,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_020": {
+        "1": {
+            "id": "HunterSkill_020",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_82",
+            "explain": "+5% attack power when your sharpness gauge is yellow or lower.",
+            "open_skills": [
+                "HunterSkill_020"
+            ],
+            "data_values": [
+                105,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_020",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_83",
+            "explain": "+10% attack power when your sharpness gauge is yellow or lower.",
+            "open_skills": [
+                "HunterSkill_020"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_020",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_84",
+            "explain": "+10% attack power when your sharpness gauge is green or lower.",
+            "open_skills": [
+                "HunterSkill_020"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_038": {
+        "1": {
+            "id": "HunterSkill_038",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_134",
+            "explain": "Slightly increases the power of specified ammo and arrows.",
+            "open_skills": [
+                "HunterSkill_038"
+            ],
+            "data_values": [
+                105,
+                105,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_039": {
+        "1": {
+            "id": "HunterSkill_039",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_137",
+            "explain": "Slightly increases the power of specified ammo and arrows.",
+            "open_skills": [
+                "HunterSkill_039"
+            ],
+            "data_values": [
+                105,
+                105,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_040": {
+        "1": {
+            "id": "HunterSkill_040",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_140",
+            "explain": "Slightly increases the power of specified ammo and arrows.",
+            "open_skills": [
+                "HunterSkill_040"
+            ],
+            "data_values": [
+                105,
+                105,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_019": {
         "1": {
             "id": "HunterSkill_019",
             "lvl": 1,
-            "name": "Ballistics",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_79",
             "explain": "Slightly extends range.",
             "open_skills": [
                 "HunterSkill_019"
@@ -33,7 +1704,7 @@
         "2": {
             "id": "HunterSkill_019",
             "lvl": 2,
-            "name": "Ballistics",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_80",
             "explain": "Extends range.",
             "open_skills": [
                 "HunterSkill_019"
@@ -48,7 +1719,7 @@
         "3": {
             "id": "HunterSkill_019",
             "lvl": 3,
-            "name": "Ballistics",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_81",
             "explain": "Greatly extends range.",
             "open_skills": [
                 "HunterSkill_019"
@@ -61,11 +1732,329 @@
             ]
         }
     },
+    "HunterSkill_045": {
+        "1": {
+            "id": "HunterSkill_045",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_143",
+            "explain": "Rapid fire damage +5%",
+            "open_skills": [
+                "HunterSkill_045"
+            ],
+            "data_values": [
+                105,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_037": {
+        "1": {
+            "id": "HunterSkill_037",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_132",
+            "explain": "Moderately increases the power of specified ammo and arrows.",
+            "open_skills": [
+                "HunterSkill_037"
+            ],
+            "data_values": [
+                110,
+                110,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_037",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_133",
+            "explain": "Increases the power of specified ammo and arrows.",
+            "open_skills": [
+                "HunterSkill_037"
+            ],
+            "data_values": [
+                120,
+                120,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_051": {
+        "1": {
+            "id": "HunterSkill_051",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_158",
+            "explain": "Lets you use poison coatings.",
+            "open_skills": [
+                "HunterSkill_051"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_052": {
+        "1": {
+            "id": "HunterSkill_052",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_161",
+            "explain": "Lets you use paralysis coatings.",
+            "open_skills": [
+                "HunterSkill_052"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_053": {
+        "1": {
+            "id": "HunterSkill_053",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_164",
+            "explain": "Lets you use sleep coatings.",
+            "open_skills": [
+                "HunterSkill_053"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_054": {
+        "1": {
+            "id": "HunterSkill_054",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_167",
+            "explain": "Lets you use blast coatings.",
+            "open_skills": [
+                "HunterSkill_054"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_198": {
+        "1": {
+            "id": "HunterSkill_198",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_466",
+            "explain": "Moderately increases bowgun reload speed and attack power of ammo when certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_198"
+            ],
+            "data_values": [
+                5,
+                5,
+                110,
+                110
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_198",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_467",
+            "explain": "Increases bowgun reload speed and attack power of ammo when certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_198"
+            ],
+            "data_values": [
+                10,
+                10,
+                110,
+                110
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_198",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_468",
+            "explain": "Greatly increases bowgun reload speed and attack power of ammo when certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_198"
+            ],
+            "data_values": [
+                15,
+                15,
+                110,
+                110
+            ]
+        }
+    },
+    "HunterSkill_197": {
+        "1": {
+            "id": "HunterSkill_197",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_463",
+            "explain": "Slightly increases the attack power and affinity of ammo after certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_197"
+            ],
+            "data_values": [
+                8,
+                3,
+                105,
+                105
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_197",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_464",
+            "explain": "Moderately increases attack power and affinity of ammo after certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_197"
+            ],
+            "data_values": [
+                10,
+                6,
+                105,
+                105
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_197",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_465",
+            "explain": "Increases the attack power and affinity of ammo after certain conditions are met.",
+            "open_skills": [
+                "HunterSkill_197"
+            ],
+            "data_values": [
+                12,
+                10,
+                105,
+                105
+            ]
+        }
+    },
+    "HunterSkill_067": {
+        "1": {
+            "id": "HunterSkill_067",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_203",
+            "explain": "Defense +5",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                100,
+                5,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_067",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_204",
+            "explain": "Defense +10",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                100,
+                10,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_067",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_205",
+            "explain": "Defense +5% Bonus: +10",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                105,
+                10,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_067",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_206",
+            "explain": "Defense +5% Bonus: +20 All elemental resistances +3",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                105,
+                20,
+                3,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_067",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_207",
+            "explain": "Defense +8% Bonus: +20 All elemental resistances +3",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                108,
+                20,
+                3,
+                0
+            ]
+        },
+        "6": {
+            "id": "HunterSkill_067",
+            "lvl": 6,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_208",
+            "explain": "Defense +8% Bonus: +35 All elemental resistances +5",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                108,
+                35,
+                5,
+                0
+            ]
+        },
+        "7": {
+            "id": "HunterSkill_067",
+            "lvl": 7,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_209",
+            "explain": "Defense +10% Bonus: +35 All elemental resistances +5",
+            "open_skills": [
+                "HunterSkill_067"
+            ],
+            "data_values": [
+                110,
+                35,
+                5,
+                0
+            ]
+        }
+    },
     "HunterSkill_068": {
         "1": {
             "id": "HunterSkill_068",
             "lvl": 1,
-            "name": "Divine Blessing",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_210",
             "explain": "While active, reduces damage taken by 15%.",
             "open_skills": [
                 "HunterSkill_068"
@@ -80,7 +2069,7 @@
         "2": {
             "id": "HunterSkill_068",
             "lvl": 2,
-            "name": "Divine Blessing",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_211",
             "explain": "While active, reduces damage taken by 30%.",
             "open_skills": [
                 "HunterSkill_068"
@@ -95,7 +2084,7 @@
         "3": {
             "id": "HunterSkill_068",
             "lvl": 3,
-            "name": "Divine Blessing",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_212",
             "explain": "While active, reduces damage taken by 50%.",
             "open_skills": [
                 "HunterSkill_068"
@@ -108,12 +2097,247 @@
             ]
         }
     },
+    "HunterSkill_077": {
+        "1": {
+            "id": "HunterSkill_077",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_241",
+            "explain": "Fire resistance +6",
+            "open_skills": [
+                "HunterSkill_077"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_077",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_242",
+            "explain": "Fire resistance +12",
+            "open_skills": [
+                "HunterSkill_077"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_077",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_243",
+            "explain": "Fire resistance +20 Defense +10",
+            "open_skills": [
+                "HunterSkill_077"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_078": {
+        "1": {
+            "id": "HunterSkill_078",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_244",
+            "explain": "Water resistance +6",
+            "open_skills": [
+                "HunterSkill_078"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_078",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_245",
+            "explain": "Water resistance +12",
+            "open_skills": [
+                "HunterSkill_078"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_078",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_246",
+            "explain": "Water resistance +20 Defense +10",
+            "open_skills": [
+                "HunterSkill_078"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_080": {
+        "1": {
+            "id": "HunterSkill_080",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_250",
+            "explain": "Thunder resistance +6",
+            "open_skills": [
+                "HunterSkill_080"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_080",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_251",
+            "explain": "Thunder resistance +12",
+            "open_skills": [
+                "HunterSkill_080"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_080",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_252",
+            "explain": "Thunder resistance +20 Defense +10",
+            "open_skills": [
+                "HunterSkill_080"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_079": {
+        "1": {
+            "id": "HunterSkill_079",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_247",
+            "explain": "Ice resistance +6",
+            "open_skills": [
+                "HunterSkill_079"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_079",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_248",
+            "explain": "Ice resistance +12",
+            "open_skills": [
+                "HunterSkill_079"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_079",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_249",
+            "explain": "Ice resistance +20 Defense +10",
+            "open_skills": [
+                "HunterSkill_079"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_081": {
+        "1": {
+            "id": "HunterSkill_081",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_253",
+            "explain": "Dragon resistance +6",
+            "open_skills": [
+                "HunterSkill_081"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_081",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_254",
+            "explain": "Dragon resistance +12",
+            "open_skills": [
+                "HunterSkill_081"
+            ],
+            "data_values": [
+                12,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_081",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_255",
+            "explain": "Dragon resistance +20 Defense +10",
+            "open_skills": [
+                "HunterSkill_081"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_083": {
         "1": {
             "id": "HunterSkill_083",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_259",
+            "explain": "Reduces the number of times you take poison damage.",
             "open_skills": [
                 "HunterSkill_083"
             ],
@@ -127,8 +2351,8 @@
         "2": {
             "id": "HunterSkill_083",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_260",
+            "explain": "Greatly reduces the number of times you take poison damage.",
             "open_skills": [
                 "HunterSkill_083"
             ],
@@ -142,8 +2366,8 @@
         "3": {
             "id": "HunterSkill_083",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_261",
+            "explain": "Prevents poison.",
             "open_skills": [
                 "HunterSkill_083"
             ],
@@ -159,8 +2383,8 @@
         "1": {
             "id": "HunterSkill_084",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_262",
+            "explain": "Reduces the duration of paralysis by 30%.",
             "open_skills": [
                 "HunterSkill_084"
             ],
@@ -174,8 +2398,8 @@
         "2": {
             "id": "HunterSkill_084",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_263",
+            "explain": "Reduces the duration of paralysis by 60%.",
             "open_skills": [
                 "HunterSkill_084"
             ],
@@ -189,8 +2413,8 @@
         "3": {
             "id": "HunterSkill_084",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_264",
+            "explain": "Prevents paralysis.",
             "open_skills": [
                 "HunterSkill_084"
             ],
@@ -206,8 +2430,8 @@
         "1": {
             "id": "HunterSkill_085",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_265",
+            "explain": "Reduces the duration of sleep by 30%.",
             "open_skills": [
                 "HunterSkill_085"
             ],
@@ -221,8 +2445,8 @@
         "2": {
             "id": "HunterSkill_085",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_266",
+            "explain": "Reduces the duration of sleep by 60%.",
             "open_skills": [
                 "HunterSkill_085"
             ],
@@ -236,8 +2460,8 @@
         "3": {
             "id": "HunterSkill_085",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_267",
+            "explain": "Prevents sleep.",
             "open_skills": [
                 "HunterSkill_085"
             ],
@@ -253,8 +2477,8 @@
         "1": {
             "id": "HunterSkill_120",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_343",
+            "explain": "Reduces the duration of defense down by 50%.",
             "open_skills": [
                 "HunterSkill_120"
             ],
@@ -268,8 +2492,8 @@
         "2": {
             "id": "HunterSkill_120",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_344",
+            "explain": "Reduces the duration of defense down by 75%.",
             "open_skills": [
                 "HunterSkill_120"
             ],
@@ -283,8 +2507,8 @@
         "3": {
             "id": "HunterSkill_120",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_345",
+            "explain": "Prevents defense down.",
             "open_skills": [
                 "HunterSkill_120"
             ],
@@ -300,8 +2524,8 @@
         "1": {
             "id": "HunterSkill_082",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_256",
+            "explain": "Reduces the duration of all elemental blights by 50%.",
             "open_skills": [
                 "HunterSkill_082"
             ],
@@ -315,8 +2539,8 @@
         "2": {
             "id": "HunterSkill_082",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_257",
+            "explain": "Reduces the duration of all elemental blights by 75%.",
             "open_skills": [
                 "HunterSkill_082"
             ],
@@ -330,8 +2554,8 @@
         "3": {
             "id": "HunterSkill_082",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_258",
+            "explain": "Nullifies all elemental blights.",
             "open_skills": [
                 "HunterSkill_082"
             ],
@@ -347,7 +2571,7 @@
         "1": {
             "id": "HunterSkill_086",
             "lvl": 1,
-            "name": "Stun Resistance",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_268",
             "explain": "Reduces the duration of stun by 30%.",
             "open_skills": [
                 "HunterSkill_086"
@@ -362,7 +2586,7 @@
         "2": {
             "id": "HunterSkill_086",
             "lvl": 2,
-            "name": "Stun Resistance",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_269",
             "explain": "Reduces the duration of stun by 60%.",
             "open_skills": [
                 "HunterSkill_086"
@@ -377,7 +2601,7 @@
         "3": {
             "id": "HunterSkill_086",
             "lvl": 3,
-            "name": "Stun Resistance",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_270",
             "explain": "Prevents stun.",
             "open_skills": [
                 "HunterSkill_086"
@@ -394,8 +2618,8 @@
         "1": {
             "id": "HunterSkill_119",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_340",
+            "explain": "Reduces damage while bleeding.",
             "open_skills": [
                 "HunterSkill_119"
             ],
@@ -409,8 +2633,8 @@
         "2": {
             "id": "HunterSkill_119",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_341",
+            "explain": "Greatly reduces damage while bleeding.",
             "open_skills": [
                 "HunterSkill_119"
             ],
@@ -424,8 +2648,8 @@
         "3": {
             "id": "HunterSkill_119",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_342",
+            "explain": "Prevents bleeding.",
             "open_skills": [
                 "HunterSkill_119"
             ],
@@ -437,18 +2661,65 @@
             ]
         }
     },
+    "HunterSkill_189": {
+        "1": {
+            "id": "HunterSkill_189",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_484",
+            "explain": "Allows you to quickly recover from webbed status or frostblight.",
+            "open_skills": [
+                "HunterSkill_189"
+            ],
+            "data_values": [
+                70,
+                70,
+                100,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_189",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_485",
+            "explain": "Allows you to very quickly recover from webbed status or frostblight.",
+            "open_skills": [
+                "HunterSkill_189"
+            ],
+            "data_values": [
+                40,
+                40,
+                150,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_189",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_486",
+            "explain": "Prevents webbed status and frostblight.",
+            "open_skills": [
+                "HunterSkill_189"
+            ],
+            "data_values": [
+                0,
+                0,
+                150,
+                0
+            ]
+        }
+    },
     "HunterSkill_087": {
         "1": {
             "id": "HunterSkill_087",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_271",
+            "explain": "Delays blastblight and reduces blast damage.",
             "open_skills": [
                 "HunterSkill_087"
             ],
             "data_values": [
-                150,
-                50,
+                25,
+                66,
                 0,
                 0
             ]
@@ -456,14 +2727,14 @@
         "2": {
             "id": "HunterSkill_087",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_272",
+            "explain": "Greatly delays blastblight and greatly reduces blast damage.",
             "open_skills": [
                 "HunterSkill_087"
             ],
             "data_values": [
-                200,
-                25,
+                50,
+                50,
                 0,
                 0
             ]
@@ -471,14 +2742,46 @@
         "3": {
             "id": "HunterSkill_087",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_273",
+            "explain": "Prevents blastblight.",
             "open_skills": [
                 "HunterSkill_087"
             ],
             "data_values": [
                 0,
-                25,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_144": {
+        "1": {
+            "id": "HunterSkill_144",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_378",
+            "explain": "Negates the effects of heat and cold.",
+            "open_skills": [
+                "HunterSkill_144"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_144",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_491",
+            "explain": "Negates environmental damage.",
+            "open_skills": [
+                "HunterSkill_144"
+            ],
+            "data_values": [
+                0,
+                0,
                 0,
                 0
             ]
@@ -488,8 +2791,8 @@
         "1": {
             "id": "HunterSkill_069",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_213",
+            "explain": "Slightly increases recovery.",
             "open_skills": [
                 "HunterSkill_069"
             ],
@@ -503,8 +2806,8 @@
         "2": {
             "id": "HunterSkill_069",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_214",
+            "explain": "Moderately increases recovery.",
             "open_skills": [
                 "HunterSkill_069"
             ],
@@ -518,8 +2821,8 @@
         "3": {
             "id": "HunterSkill_069",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_215",
+            "explain": "Greatly increases recovery.",
             "open_skills": [
                 "HunterSkill_069"
             ],
@@ -535,7 +2838,7 @@
         "1": {
             "id": "HunterSkill_070",
             "lvl": 1,
-            "name": "Recovery Speed",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_216",
             "explain": "Doubles the speed at which you heal recoverable damage.",
             "open_skills": [
                 "HunterSkill_070"
@@ -550,7 +2853,7 @@
         "2": {
             "id": "HunterSkill_070",
             "lvl": 2,
-            "name": "Recovery Speed",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_217",
             "explain": "Triples the speed at which you heal recoverable damage.",
             "open_skills": [
                 "HunterSkill_070"
@@ -565,7 +2868,7 @@
         "3": {
             "id": "HunterSkill_070",
             "lvl": 3,
-            "name": "Recovery Speed",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_218",
             "explain": "Quadruples the speed at which you heal recoverable damage.",
             "open_skills": [
                 "HunterSkill_070"
@@ -578,12 +2881,59 @@
             ]
         }
     },
+    "HunterSkill_134": {
+        "1": {
+            "id": "HunterSkill_134",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_360",
+            "explain": "Restores 50 health.",
+            "open_skills": [
+                "HunterSkill_134"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_134",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_361",
+            "explain": "Restores 80 health.",
+            "open_skills": [
+                "HunterSkill_134"
+            ],
+            "data_values": [
+                80,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_134",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_362",
+            "explain": "Restores 100 health.",
+            "open_skills": [
+                "HunterSkill_134"
+            ],
+            "data_values": [
+                100,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_025": {
         "1": {
             "id": "HunterSkill_025",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_95",
+            "explain": "Reduces fixed stamina depletion by 10%.",
             "open_skills": [
                 "HunterSkill_025"
             ],
@@ -597,8 +2947,8 @@
         "2": {
             "id": "HunterSkill_025",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_96",
+            "explain": "Reduces fixed stamina depletion by 20%.",
             "open_skills": [
                 "HunterSkill_025"
             ],
@@ -612,8 +2962,8 @@
         "3": {
             "id": "HunterSkill_025",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_97",
+            "explain": "Reduces fixed stamina depletion by 30%.",
             "open_skills": [
                 "HunterSkill_025"
             ],
@@ -627,8 +2977,8 @@
         "4": {
             "id": "HunterSkill_025",
             "lvl": 4,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_98",
+            "explain": "Reduces fixed stamina depletion by 40%.",
             "open_skills": [
                 "HunterSkill_025"
             ],
@@ -642,8 +2992,8 @@
         "5": {
             "id": "HunterSkill_025",
             "lvl": 5,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_99",
+            "explain": "Reduces fixed stamina depletion by 50%.",
             "open_skills": [
                 "HunterSkill_025"
             ],
@@ -659,7 +3009,7 @@
         "1": {
             "id": "HunterSkill_065",
             "lvl": 1,
-            "name": "Stamina Surge",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_200",
             "explain": "Stamina recovery speed +10%",
             "open_skills": [
                 "HunterSkill_065"
@@ -674,7 +3024,7 @@
         "2": {
             "id": "HunterSkill_065",
             "lvl": 2,
-            "name": "Stamina Surge",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_201",
             "explain": "Stamina recovery speed +30%",
             "open_skills": [
                 "HunterSkill_065"
@@ -689,7 +3039,7 @@
         "3": {
             "id": "HunterSkill_065",
             "lvl": 3,
-            "name": "Stamina Surge",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_202",
             "explain": "Stamina recovery speed +50%",
             "open_skills": [
                 "HunterSkill_065"
@@ -702,12 +3052,491 @@
             ]
         }
     },
+    "HunterSkill_024": {
+        "1": {
+            "id": "HunterSkill_024",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_92",
+            "explain": "Reduces continuous stamina depletion by 15%.",
+            "open_skills": [
+                "HunterSkill_024"
+            ],
+            "data_values": [
+                85,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_024",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_93",
+            "explain": "Reduces continuous stamina depletion by 30%.",
+            "open_skills": [
+                "HunterSkill_024"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_024",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_94",
+            "explain": "Reduces continuous stamina depletion by 50%.",
+            "open_skills": [
+                "HunterSkill_024"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_105": {
+        "1": {
+            "id": "HunterSkill_105",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_314",
+            "explain": "Extends the time until your stamina cap reduces by 50%.",
+            "open_skills": [
+                "HunterSkill_105"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_105",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_315",
+            "explain": "Extends the time until your stamina cap reduces by 100%.",
+            "open_skills": [
+                "HunterSkill_105"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_105",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_316",
+            "explain": "Prevents your stamina cap from decreasing.",
+            "open_skills": [
+                "HunterSkill_105"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_058": {
+        "1": {
+            "id": "HunterSkill_058",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_173",
+            "explain": "Attack +4 and affinity +3% while active.",
+            "open_skills": [
+                "HunterSkill_058"
+            ],
+            "data_values": [
+                4,
+                3,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_058",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_174",
+            "explain": "Attack +8 and affinity +5% while active.",
+            "open_skills": [
+                "HunterSkill_058"
+            ],
+            "data_values": [
+                8,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_058",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_175",
+            "explain": "Attack +12 and affinity +7% while active.",
+            "open_skills": [
+                "HunterSkill_058"
+            ],
+            "data_values": [
+                12,
+                7,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_058",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_176",
+            "explain": "Attack +16 and affinity +10% while active.",
+            "open_skills": [
+                "HunterSkill_058"
+            ],
+            "data_values": [
+                16,
+                10,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_058",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_177",
+            "explain": "Attack +20 and affinity +15% while active.",
+            "open_skills": [
+                "HunterSkill_058"
+            ],
+            "data_values": [
+                20,
+                15,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_063": {
+        "1": {
+            "id": "HunterSkill_063",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_192",
+            "explain": "While active, affinity +10% and reduces stamina depletion by 30%.",
+            "open_skills": [
+                "HunterSkill_063"
+            ],
+            "data_values": [
+                10,
+                70,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_063",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_193",
+            "explain": "While active, affinity +20% and reduces stamina depletion by 30%.",
+            "open_skills": [
+                "HunterSkill_063"
+            ],
+            "data_values": [
+                20,
+                70,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_063",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_194",
+            "explain": "While active, affinity +30% and reduces stamina depletion by 50%.",
+            "open_skills": [
+                "HunterSkill_063"
+            ],
+            "data_values": [
+                30,
+                50,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_063",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_195",
+            "explain": "While active, affinity +40% and reduces stamina depletion by 50%.",
+            "open_skills": [
+                "HunterSkill_063"
+            ],
+            "data_values": [
+                40,
+                50,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_063",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_196",
+            "explain": "While active, affinity +50% and reduces stamina depletion by 50%.",
+            "open_skills": [
+                "HunterSkill_063"
+            ],
+            "data_values": [
+                50,
+                50,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_114": {
+        "1": {
+            "id": "HunterSkill_114",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_330",
+            "explain": "On first hit, gain a small temporary attack and element boost, replaced by a larger boost after the fifth hit.",
+            "open_skills": [
+                "HunterSkill_114"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_114",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_331",
+            "explain": "Hit 5 successive times for a moderate stat boost.",
+            "open_skills": [
+                "HunterSkill_114"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_114",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_332",
+            "explain": "Hit 5 successive times for a bigger stat boost.",
+            "open_skills": [
+                "HunterSkill_114"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_114",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_492",
+            "explain": "Hit 5 successive times for an even bigger stat boost.",
+            "open_skills": [
+                "HunterSkill_114"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_114",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_493",
+            "explain": "Hit 5 successive times for a huge stat boost.",
+            "open_skills": [
+                "HunterSkill_114"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_146": {
+        "1": {
+            "id": "HunterSkill_146",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_380",
+            "explain": "Makes it ever so slightly easier to inflict wounds. Also deals additional non-elemental damage.",
+            "open_skills": [
+                "HunterSkill_146"
+            ],
+            "data_values": [
+                105,
+                100,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_146",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_381",
+            "explain": "Makes it moderately easier to inflict wounds. Also deals slightly more additional non-elemental damage.",
+            "open_skills": [
+                "HunterSkill_146"
+            ],
+            "data_values": [
+                110,
+                120,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_146",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_382",
+            "explain": "Makes it easier to inflict wounds. Also deals moderately more additional non-elemental damage.",
+            "open_skills": [
+                "HunterSkill_146"
+            ],
+            "data_values": [
+                115,
+                140,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_146",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_383",
+            "explain": "Makes it much easier to inflict wounds. Also deals more additional non-elemental damage.",
+            "open_skills": [
+                "HunterSkill_146"
+            ],
+            "data_values": [
+                120,
+                170,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_146",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_384",
+            "explain": "Makes it significantly easier to inflict wounds. Also deals much more additional non-elemental damage.",
+            "open_skills": [
+                "HunterSkill_146"
+            ],
+            "data_values": [
+                130,
+                200,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_100": {
+        "1": {
+            "id": "HunterSkill_100",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_303",
+            "explain": "Defense +50 while active.",
+            "open_skills": [
+                "HunterSkill_100"
+            ],
+            "data_values": [
+                100,
+                50,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_100",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_304",
+            "explain": "Attack +5% and defense +50 while active.",
+            "open_skills": [
+                "HunterSkill_100"
+            ],
+            "data_values": [
+                105,
+                50,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_100",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_305",
+            "explain": "Attack +5% and defense +100 while active.",
+            "open_skills": [
+                "HunterSkill_100"
+            ],
+            "data_values": [
+                105,
+                100,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_100",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_306",
+            "explain": "Attack +10% and defense +100 while active.",
+            "open_skills": [
+                "HunterSkill_100"
+            ],
+            "data_values": [
+                110,
+                100,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_100",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_307",
+            "explain": "Attack +30% and defense-increasing effects are negated while active.",
+            "open_skills": [
+                "HunterSkill_100"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_130": {
         "1": {
             "id": "HunterSkill_130",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_355",
+            "explain": "Increases Palico attack power and defense by 5%.",
             "open_skills": [
                 "HunterSkill_130"
             ],
@@ -721,8 +3550,8 @@
         "2": {
             "id": "HunterSkill_130",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_356",
+            "explain": "Increases Palico attack power and defense by 10%.",
             "open_skills": [
                 "HunterSkill_130"
             ],
@@ -736,8 +3565,8 @@
         "3": {
             "id": "HunterSkill_130",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_357",
+            "explain": "Increases Palico attack power and defense by 15%.",
             "open_skills": [
                 "HunterSkill_130"
             ],
@@ -751,8 +3580,8 @@
         "4": {
             "id": "HunterSkill_130",
             "lvl": 4,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_358",
+            "explain": "Increases Palico attack power and defense by 20%.",
             "open_skills": [
                 "HunterSkill_130"
             ],
@@ -766,14 +3595,561 @@
         "5": {
             "id": "HunterSkill_130",
             "lvl": 5,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_359",
+            "explain": "Increases Palico attack power and defense by 25%.",
             "open_skills": [
                 "HunterSkill_130"
             ],
             "data_values": [
                 125,
                 125,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_022": {
+        "1": {
+            "id": "HunterSkill_022",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_86",
+            "explain": "Slightly increases gauge fill rate and reduces charge times by 5%.",
+            "open_skills": [
+                "HunterSkill_022"
+            ],
+            "data_values": [
+                105,
+                95,
+                1,
+                105
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_022",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_87",
+            "explain": "Moderately increases gauge fill rate and reduces charge times by 10%.",
+            "open_skills": [
+                "HunterSkill_022"
+            ],
+            "data_values": [
+                110,
+                90,
+                2,
+                107
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_022",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_88",
+            "explain": "Increases gauge fill rate and reduces charge times by 15%.",
+            "open_skills": [
+                "HunterSkill_022"
+            ],
+            "data_values": [
+                120,
+                85,
+                3,
+                110
+            ]
+        }
+    },
+    "HunterSkill_023": {
+        "1": {
+            "id": "HunterSkill_023",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_89",
+            "explain": "Moderately boosts the duration weapons are powered up.",
+            "open_skills": [
+                "HunterSkill_023"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_023",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_90",
+            "explain": "Boosts the duration weapons are powered up.",
+            "open_skills": [
+                "HunterSkill_023"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_023",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_91",
+            "explain": "Greatly boosts the duration weapons are powered up.",
+            "open_skills": [
+                "HunterSkill_023"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_030": {
+        "1": {
+            "id": "HunterSkill_030",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_114",
+            "explain": "Draw attacks deal a small amount of stun damage and gain attack +3.",
+            "open_skills": [
+                "HunterSkill_030"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_030",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_115",
+            "explain": "Draw attacks deal a medium amount of stun damage and gain attack +5.",
+            "open_skills": [
+                "HunterSkill_030"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_030",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_116",
+            "explain": "Draw attacks deal a large amount of stun damage and gain attack +7.",
+            "open_skills": [
+                "HunterSkill_030"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_032": {
+        "1": {
+            "id": "HunterSkill_032",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_120",
+            "explain": "Stun power +20%",
+            "open_skills": [
+                "HunterSkill_032"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_032",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_121",
+            "explain": "Stun power +30%",
+            "open_skills": [
+                "HunterSkill_032"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_032",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_122",
+            "explain": "Stun power +40%",
+            "open_skills": [
+                "HunterSkill_032"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_033": {
+        "1": {
+            "id": "HunterSkill_033",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_123",
+            "explain": "Exhaust power +20%",
+            "open_skills": [
+                "HunterSkill_033"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_033",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_124",
+            "explain": "Exhaust power +30%",
+            "open_skills": [
+                "HunterSkill_033"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_033",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_125",
+            "explain": "Exhaust power +40%",
+            "open_skills": [
+                "HunterSkill_033"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_035": {
+        "1": {
+            "id": "HunterSkill_035",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_127",
+            "explain": "Moderately increases each attack and Wyvern's Fire firing speed. Shelling fire attack +30.",
+            "open_skills": [
+                "HunterSkill_035"
+            ],
+            "data_values": [
+                5,
+                120,
+                3,
+                110
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_035",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_128",
+            "explain": "Increases each attack and Wyvern's Fire firing speed. Shelling fire attack +60.",
+            "open_skills": [
+                "HunterSkill_035"
+            ],
+            "data_values": [
+                10,
+                150,
+                6,
+                120
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_035",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_129",
+            "explain": "Greatly increases each attack and Wyvern's Fire firing speed. Shelling fire attack +90.",
+            "open_skills": [
+                "HunterSkill_035"
+            ],
+            "data_values": [
+                15,
+                200,
+                9,
+                130
+            ]
+        }
+    },
+    "HunterSkill_047": {
+        "1": {
+            "id": "HunterSkill_047",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_148",
+            "explain": "Speed +10%",
+            "open_skills": [
+                "HunterSkill_047"
+            ],
+            "data_values": [
+                110,
+                100,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_047",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_149",
+            "explain": "Speed +20% Morph attack damage +10%",
+            "open_skills": [
+                "HunterSkill_047"
+            ],
+            "data_values": [
+                120,
+                110,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_047",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_150",
+            "explain": "Speed +30% Morph attack damage +20%",
+            "open_skills": [
+                "HunterSkill_047"
+            ],
+            "data_values": [
+                130,
+                120,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_091": {
+        "1": {
+            "id": "HunterSkill_091",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_280",
+            "explain": "Increases part damage and damage dealt when conditions are met by 10%.",
+            "open_skills": [
+                "HunterSkill_091"
+            ],
+            "data_values": [
+                110,
+                110,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_091",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_281",
+            "explain": "Increases part damage and damage dealt when conditions are met by 20%.",
+            "open_skills": [
+                "HunterSkill_091"
+            ],
+            "data_values": [
+                120,
+                120,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_091",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_282",
+            "explain": "Increases part damage and damage dealt when conditions are met by 30%.",
+            "open_skills": [
+                "HunterSkill_091"
+            ],
+            "data_values": [
+                130,
+                130,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_111": {
+        "1": {
+            "id": "HunterSkill_111",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_324",
+            "explain": "Attack +6 against large monsters affected by poison or paralysis.",
+            "open_skills": [
+                "HunterSkill_111"
+            ],
+            "data_values": [
+                6,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_111",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_325",
+            "explain": "Attack +8 and affinity +5% against large monsters affected by poison or paralysis.",
+            "open_skills": [
+                "HunterSkill_111"
+            ],
+            "data_values": [
+                8,
+                5,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_111",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_326",
+            "explain": "Attack +10 and affinity +10% against large monsters affected by poison or paralysis.",
+            "open_skills": [
+                "HunterSkill_111"
+            ],
+            "data_values": [
+                10,
+                10,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_111",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_494",
+            "explain": "Attack +12 and affinity +15% against large monsters affected by poison or paralysis.",
+            "open_skills": [
+                "HunterSkill_111"
+            ],
+            "data_values": [
+                12,
+                15,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_111",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_495",
+            "explain": "Attack +15 and affinity +20% against large monsters affected by poison or paralysis.",
+            "open_skills": [
+                "HunterSkill_111"
+            ],
+            "data_values": [
+                15,
+                20,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_113": {
+        "1": {
+            "id": "HunterSkill_113",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_327",
+            "explain": "When active, grants a slight increase to elemental damage and status buildup.",
+            "open_skills": [
+                "HunterSkill_113"
+            ],
+            "data_values": [
+                110,
+                105,
+                105,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_113",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_328",
+            "explain": "When active, grants an increase to elemental damage and status buildup.",
+            "open_skills": [
+                "HunterSkill_113"
+            ],
+            "data_values": [
+                120,
+                110,
+                110,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_113",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_329",
+            "explain": "When active, grants a large increase to elemental damage and status buildup.",
+            "open_skills": [
+                "HunterSkill_113"
+            ],
+            "data_values": [
+                130,
+                115,
+                115,
+                0
+            ]
+        }
+    },
+    "HunterSkill_116": {
+        "1": {
+            "id": "HunterSkill_116",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_336",
+            "explain": "Attack +5% while active.",
+            "open_skills": [
+                "HunterSkill_116"
+            ],
+            "data_values": [
+                105,
+                30,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_116",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_337",
+            "explain": "Attack +10% while active.",
+            "open_skills": [
+                "HunterSkill_116"
+            ],
+            "data_values": [
+                110,
+                30,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_116",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_338",
+            "explain": "Attack +15% while active.",
+            "open_skills": [
+                "HunterSkill_116"
+            ],
+            "data_values": [
+                115,
+                30,
                 0,
                 0
             ]
@@ -783,14 +4159,14 @@
         "1": {
             "id": "HunterSkill_195",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_460",
+            "explain": "Slightly increases recovery rate after contracting the Frenzy. Affinity +3% if cured.",
             "open_skills": [
                 "HunterSkill_195"
             ],
             "data_values": [
+                10,
                 3,
-                12,
                 0,
                 0
             ]
@@ -798,14 +4174,14 @@
         "2": {
             "id": "HunterSkill_195",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_461",
+            "explain": "Increases recovery rate after contracting the Frenzy. Affinity +6% if cured.",
             "open_skills": [
                 "HunterSkill_195"
             ],
             "data_values": [
-                5,
-                15,
+                20,
+                6,
                 0,
                 0
             ]
@@ -813,14 +4189,208 @@
         "3": {
             "id": "HunterSkill_195",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_462",
+            "explain": "Greatly increases recovery rate after contracting the Frenzy. Affinity +15% if cured.",
             "open_skills": [
                 "HunterSkill_195"
             ],
             "data_values": [
+                30,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_190": {
+        "1": {
+            "id": "HunterSkill_190",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_385",
+            "explain": "While active, slightly increases elemental attack, and resistance to element taken at activation by 4.",
+            "open_skills": [
+                "HunterSkill_190"
+            ],
+            "data_values": [
+                5,
+                5,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_190",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_386",
+            "explain": "While active, moderately increases elemental attack, and resistance to element taken at activation by 6.",
+            "open_skills": [
+                "HunterSkill_190"
+            ],
+            "data_values": [
+                10,
                 8,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_190",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_456",
+            "explain": "While active, increases elemental attack, and resistance to element taken at activation by 8.",
+            "open_skills": [
+                "HunterSkill_190"
+            ],
+            "data_values": [
+                15,
+                12,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_034": {
+        "1": {
+            "id": "HunterSkill_034",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_126",
+            "explain": "Extends Melody Effect duration and increases the chance of larger heals from healing melodies.",
+            "open_skills": [
+                "HunterSkill_034"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_034",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_451",
+            "explain": "Greatly increases the effect duration of hunting horn melodies.",
+            "open_skills": [
+                "HunterSkill_034"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_057": {
+        "1": {
+            "id": "HunterSkill_057",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_172",
+            "explain": "Activates skill effect.",
+            "open_skills": [
+                "HunterSkill_057"
+            ],
+            "data_values": [
+                130,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_055": {
+        "1": {
+            "id": "HunterSkill_055",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_170",
+            "explain": "Jumping attack power +10%",
+            "open_skills": [
+                "HunterSkill_055"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_145": {
+        "1": {
+            "id": "HunterSkill_145",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_379",
+            "explain": "Activates skill effect.",
+            "open_skills": [
+                "HunterSkill_145"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_141": {
+        "1": {
+            "id": "HunterSkill_141",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_374",
+            "explain": "Extends the duration of your poison's effect by 20%.",
+            "open_skills": [
+                "HunterSkill_141"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_026": {
+        "1": {
+            "id": "HunterSkill_026",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_100",
+            "explain": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
+            "open_skills": [
+                "HunterSkill_026"
+            ],
+            "data_values": [
+                10,
+                85,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_026",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_101",
+            "explain": "Decreases the impact of attacks and reduces stamina depletion by 30%.",
+            "open_skills": [
+                "HunterSkill_026"
+            ],
+            "data_values": [
                 20,
+                70,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_026",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_102",
+            "explain": "Greatly decreases the impact of attacks and reduces stamina depletion by 50%.",
+            "open_skills": [
+                "HunterSkill_026"
+            ],
+            "data_values": [
+                30,
+                50,
                 0,
                 0
             ]
@@ -830,8 +4400,8 @@
         "1": {
             "id": "HunterSkill_075",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_233",
+            "explain": "Very slightly increases invulnerability window.",
             "open_skills": [
                 "HunterSkill_075"
             ],
@@ -845,8 +4415,8 @@
         "2": {
             "id": "HunterSkill_075",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_234",
+            "explain": "Slightly increases invulnerability window.",
             "open_skills": [
                 "HunterSkill_075"
             ],
@@ -860,8 +4430,8 @@
         "3": {
             "id": "HunterSkill_075",
             "lvl": 3,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_235",
+            "explain": "Increases invulnerability window.",
             "open_skills": [
                 "HunterSkill_075"
             ],
@@ -875,8 +4445,8 @@
         "4": {
             "id": "HunterSkill_075",
             "lvl": 4,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_236",
+            "explain": "Greatly increases invulnerability window.",
             "open_skills": [
                 "HunterSkill_075"
             ],
@@ -890,10 +4460,386 @@
         "5": {
             "id": "HunterSkill_075",
             "lvl": 5,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_237",
+            "explain": "Massively increases invulnerability window.",
             "open_skills": [
                 "HunterSkill_075"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_076": {
+        "1": {
+            "id": "HunterSkill_076",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_238",
+            "explain": "Slightly extends evasion distance.",
+            "open_skills": [
+                "HunterSkill_076"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_076",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_239",
+            "explain": "Extends evasion distance.",
+            "open_skills": [
+                "HunterSkill_076"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_076",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_240",
+            "explain": "Greatly extends evasion distance.",
+            "open_skills": [
+                "HunterSkill_076"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_072": {
+        "1": {
+            "id": "HunterSkill_072",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_222",
+            "explain": "Reduces the effects of weak monster roars.",
+            "open_skills": [
+                "HunterSkill_072"
+            ],
+            "data_values": [
+                20,
+                100,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_072",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_223",
+            "explain": "Nullifies weak monster roars and reduces the effects of strong monster roars.",
+            "open_skills": [
+                "HunterSkill_072"
+            ],
+            "data_values": [
+                0,
+                10,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_072",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_224",
+            "explain": "Nullifies weak and strong monster roars.",
+            "open_skills": [
+                "HunterSkill_072"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_027": {
+        "1": {
+            "id": "HunterSkill_027",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_105",
+            "explain": "Reduces damage taken by 30%.",
+            "open_skills": [
+                "HunterSkill_027"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_027",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_106",
+            "explain": "Reduces damage taken by 50%.",
+            "open_skills": [
+                "HunterSkill_027"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_027",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_107",
+            "explain": "Reduces damage taken by 80%.",
+            "open_skills": [
+                "HunterSkill_027"
+            ],
+            "data_values": [
+                20,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_031": {
+        "1": {
+            "id": "HunterSkill_031",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_117",
+            "explain": "Slightly increases sheathing speed.",
+            "open_skills": [
+                "HunterSkill_031"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_031",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_118",
+            "explain": "Increases sheathing speed.",
+            "open_skills": [
+                "HunterSkill_031"
+            ],
+            "data_values": [
+                120,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_031",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_119",
+            "explain": "Greatly increases sheathing speed.",
+            "open_skills": [
+                "HunterSkill_031"
+            ],
+            "data_values": [
+                140,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_073": {
+        "1": {
+            "id": "HunterSkill_073",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_227",
+            "explain": "Negates minor wind pressure and halves the effects of major wind pressure.",
+            "open_skills": [
+                "HunterSkill_073"
+            ],
+            "data_values": [
+                0,
+                50,
+                100,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_073",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_228",
+            "explain": "Negates minor and major wind pressure and halves the effects of dragon wind pressure.",
+            "open_skills": [
+                "HunterSkill_073"
+            ],
+            "data_values": [
+                0,
+                0,
+                50,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_073",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_229",
+            "explain": "Negates all kinds of wind pressure.",
+            "open_skills": [
+                "HunterSkill_073"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_074": {
+        "1": {
+            "id": "HunterSkill_074",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_230",
+            "explain": "Nullifies very minor ground tremors and halves effects of minor ground tremors.",
+            "open_skills": [
+                "HunterSkill_074"
+            ],
+            "data_values": [
+                0,
+                50,
+                100,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_074",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_231",
+            "explain": "Nullifies up to minor ground tremors and greatly reduces the effects of major ground tremors.",
+            "open_skills": [
+                "HunterSkill_074"
+            ],
+            "data_values": [
+                0,
+                0,
+                20,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_074",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_232",
+            "explain": "Nullifies all ground tremors.",
+            "open_skills": [
+                "HunterSkill_074"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_102": {
+        "1": {
+            "id": "HunterSkill_102",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_309",
+            "explain": "Prevents knockbacks.",
+            "open_skills": [
+                "HunterSkill_102"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_102",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_310",
+            "explain": "Prevents knockbacks. Tripping is reduced to a knockback instead.",
+            "open_skills": [
+                "HunterSkill_102"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_102",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_311",
+            "explain": "Prevents knockbacks and tripping.",
+            "open_skills": [
+                "HunterSkill_102"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_139": {
+        "1": {
+            "id": "HunterSkill_139",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_454",
+            "explain": "Discourages monsters from engaging you even if you've been spotted.",
+            "open_skills": [
+                "HunterSkill_139"
+            ],
+            "data_values": [
+                50,
+                100,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_139",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_455",
+            "explain": "Highly discourages monsters from engaging you even if you've been spotted.",
+            "open_skills": [
+                "HunterSkill_139"
+            ],
+            "data_values": [
+                0,
+                50,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_139",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_373",
+            "explain": "Prevents monsters from engaging you even if you've been spotted.",
+            "open_skills": [
+                "HunterSkill_139"
             ],
             "data_values": [
                 0,
@@ -907,8 +4853,8 @@
         "1": {
             "id": "HunterSkill_071",
             "lvl": 1,
-            "name": "Speed Eating",
-            "explain": "Slightly increases eating speed.",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_219",
+            "explain": "Moderately increases eating speed.",
             "open_skills": [
                 "HunterSkill_071"
             ],
@@ -922,7 +4868,7 @@
         "2": {
             "id": "HunterSkill_071",
             "lvl": 2,
-            "name": "Speed Eating",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_220",
             "explain": "Increases eating speed.",
             "open_skills": [
                 "HunterSkill_071"
@@ -937,7 +4883,7 @@
         "3": {
             "id": "HunterSkill_071",
             "lvl": 3,
-            "name": "Speed Eating",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_221",
             "explain": "Greatly increases eating speed.",
             "open_skills": [
                 "HunterSkill_071"
@@ -950,11 +4896,297 @@
             ]
         }
     },
+    "HunterSkill_036": {
+        "1": {
+            "id": "HunterSkill_036",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_130",
+            "explain": "Increases shell and phial reloading speed.",
+            "open_skills": [
+                "HunterSkill_036"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_036",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_131",
+            "explain": "Increases shell/phial reloading speed. Gunlance loading capacity +1. Charge blade charges 5 phials on yellow gauge.",
+            "open_skills": [
+                "HunterSkill_036"
+            ],
+            "data_values": [
+                120,
+                1,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_088": {
+        "1": {
+            "id": "HunterSkill_088",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_274",
+            "explain": "Negates the effects of muddy streams, and prevents you from being slowed down in water or oilsilt.",
+            "open_skills": [
+                "HunterSkill_088"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_088",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_275",
+            "explain": "Also negates the effects of waves.",
+            "open_skills": [
+                "HunterSkill_088"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_050": {
+        "1": {
+            "id": "HunterSkill_050",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_157",
+            "explain": "Activates skill effect.",
+            "open_skills": [
+                "HunterSkill_050"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_106": {
+        "1": {
+            "id": "HunterSkill_106",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_317",
+            "explain": "Enables skill use.",
+            "open_skills": [
+                "HunterSkill_106"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_103": {
+        "1": {
+            "id": "HunterSkill_103",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_312",
+            "explain": "Negates knockback during jumps.",
+            "open_skills": [
+                "HunterSkill_103"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_109": {
+        "1": {
+            "id": "HunterSkill_109",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_320",
+            "explain": "Reduces stamina depletion while climbing by 50%.",
+            "open_skills": [
+                "HunterSkill_109"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_098": {
+        "1": {
+            "id": "HunterSkill_098",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_295",
+            "explain": "Items affect nearby allies with 33% of their efficacy.",
+            "open_skills": [
+                "HunterSkill_098"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_098",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_296",
+            "explain": "Items affect nearby allies in a wider radius with 33% of their efficacy.",
+            "open_skills": [
+                "HunterSkill_098"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_098",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_297",
+            "explain": "Items affect nearby allies in a wider radius with 66% of their efficacy.",
+            "open_skills": [
+                "HunterSkill_098"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_098",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_298",
+            "explain": "Items affect nearby allies in a much wider radius with 66% of their efficacy.",
+            "open_skills": [
+                "HunterSkill_098"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_098",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_299",
+            "explain": "Items affect nearby allies in a much wider radius with full efficacy.",
+            "open_skills": [
+                "HunterSkill_098"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_138": {
+        "1": {
+            "id": "HunterSkill_138",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_368",
+            "explain": "Shortens recharge time by 10%.",
+            "open_skills": [
+                "HunterSkill_138"
+            ],
+            "data_values": [
+                90,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_138",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_369",
+            "explain": "Shortens recharge time by 20%.",
+            "open_skills": [
+                "HunterSkill_138"
+            ],
+            "data_values": [
+                80,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_138",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_370",
+            "explain": "Shortens recharge time by 30%.",
+            "open_skills": [
+                "HunterSkill_138"
+            ],
+            "data_values": [
+                70,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_138",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_371",
+            "explain": "Shortens recharge time by 40%.",
+            "open_skills": [
+                "HunterSkill_138"
+            ],
+            "data_values": [
+                60,
+                0,
+                0,
+                0
+            ]
+        },
+        "5": {
+            "id": "HunterSkill_138",
+            "lvl": 5,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_372",
+            "explain": "Shortens recharge time by 50%.",
+            "open_skills": [
+                "HunterSkill_138"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_095": {
         "1": {
             "id": "HunterSkill_095",
             "lvl": 1,
-            "name": "Bombardier",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_286",
             "explain": "Explosive power +10%",
             "open_skills": [
                 "HunterSkill_095"
@@ -969,7 +5201,7 @@
         "2": {
             "id": "HunterSkill_095",
             "lvl": 2,
-            "name": "Bombardier",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_287",
             "explain": "Explosive power +20%",
             "open_skills": [
                 "HunterSkill_095"
@@ -984,7 +5216,7 @@
         "3": {
             "id": "HunterSkill_095",
             "lvl": 3,
-            "name": "Bombardier",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_288",
             "explain": "Explosive power +30%",
             "open_skills": [
                 "HunterSkill_095"
@@ -997,11 +5229,105 @@
             ]
         }
     },
+    "HunterSkill_096": {
+        "1": {
+            "id": "HunterSkill_096",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_289",
+            "explain": "Lets you digest blue mushrooms and toadstools.",
+            "open_skills": [
+                "HunterSkill_096"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_096",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_290",
+            "explain": "Additionally lets you digest nitroshrooms and parashrooms.",
+            "open_skills": [
+                "HunterSkill_096"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_096",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_291",
+            "explain": "Additionally lets you digest mandragoras, devil's blight, and exciteshrooms.",
+            "open_skills": [
+                "HunterSkill_096"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_097": {
+        "1": {
+            "id": "HunterSkill_097",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_292",
+            "explain": "Item effect duration +10%",
+            "open_skills": [
+                "HunterSkill_097"
+            ],
+            "data_values": [
+                110,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_097",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_293",
+            "explain": "Item effect duration +25%",
+            "open_skills": [
+                "HunterSkill_097"
+            ],
+            "data_values": [
+                125,
+                0,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_097",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_294",
+            "explain": "Item effect duration +50%",
+            "open_skills": [
+                "HunterSkill_097"
+            ],
+            "data_values": [
+                150,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_099": {
         "1": {
             "id": "HunterSkill_099",
             "lvl": 1,
-            "name": "Free Meal",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_300",
             "explain": "Activates 10% of the time.",
             "open_skills": [
                 "HunterSkill_099"
@@ -1016,7 +5342,7 @@
         "2": {
             "id": "HunterSkill_099",
             "lvl": 2,
-            "name": "Free Meal",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_301",
             "explain": "Activates 25% of the time.",
             "open_skills": [
                 "HunterSkill_099"
@@ -1031,7 +5357,7 @@
         "3": {
             "id": "HunterSkill_099",
             "lvl": 3,
-            "name": "Free Meal",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_302",
             "explain": "Activates 45% of the time.",
             "open_skills": [
                 "HunterSkill_099"
@@ -1048,7 +5374,7 @@
         "1": {
             "id": "HunterSkill_046",
             "lvl": 1,
-            "name": "Speed Sharpening",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_146",
             "explain": "Removes one cycle from the sharpening process.",
             "open_skills": [
                 "HunterSkill_046"
@@ -1063,7 +5389,7 @@
         "2": {
             "id": "HunterSkill_046",
             "lvl": 2,
-            "name": "Speed Sharpening",
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_147",
             "explain": "Removes two cycles from the sharpening process.",
             "open_skills": [
                 "HunterSkill_046"
@@ -1080,8 +5406,8 @@
         "1": {
             "id": "HunterSkill_122",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_349",
+            "explain": "Reduces stench duration by 50%.",
             "open_skills": [
                 "HunterSkill_122"
             ],
@@ -1095,8 +5421,8 @@
         "2": {
             "id": "HunterSkill_122",
             "lvl": 2,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_496",
+            "explain": "Prevents stench.",
             "open_skills": [
                 "HunterSkill_122"
             ],
@@ -1108,12 +5434,155 @@
             ]
         }
     },
+    "HunterSkill_136": {
+        "1": {
+            "id": "HunterSkill_136",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_364",
+            "explain": "Improves the effectiveness of flash attacks and items.",
+            "open_skills": [
+                "HunterSkill_136"
+            ],
+            "data_values": [
+                200,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_089": {
+        "1": {
+            "id": "HunterSkill_089",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_276",
+            "explain": "One extra consumable herb item per gather.",
+            "open_skills": [
+                "HunterSkill_089"
+            ],
+            "data_values": [
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_089",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_277",
+            "explain": "Additionally adds one extra consumable fruit, nut, or seed item per gather.",
+            "open_skills": [
+                "HunterSkill_089"
+            ],
+            "data_values": [
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_089",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_448",
+            "explain": "Additionally adds one extra consumable insect item per gather.",
+            "open_skills": [
+                "HunterSkill_089"
+            ],
+            "data_values": [
+                1,
+                1,
+                1,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_089",
+            "lvl": 4,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_449",
+            "explain": "Additionally adds one extra consumable mushroom item per gather.",
+            "open_skills": [
+                "HunterSkill_089"
+            ],
+            "data_values": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    "HunterSkill_090": {
+        "1": {
+            "id": "HunterSkill_090",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_450",
+            "explain": "One extra item when gathering from bonepiles.",
+            "open_skills": [
+                "HunterSkill_090"
+            ],
+            "data_values": [
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "2": {
+            "id": "HunterSkill_090",
+            "lvl": 2,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_278",
+            "explain": "Additionally adds one extra item when gathering special items.",
+            "open_skills": [
+                "HunterSkill_090"
+            ],
+            "data_values": [
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        "3": {
+            "id": "HunterSkill_090",
+            "lvl": 3,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_279",
+            "explain": "Additionally adds one extra item when gathering from mining outcrops.",
+            "open_skills": [
+                "HunterSkill_090"
+            ],
+            "data_values": [
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    },
+    "HunterSkill_137": {
+        "1": {
+            "id": "HunterSkill_137",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_367",
+            "explain": "Activates skill effect.",
+            "open_skills": [
+                "HunterSkill_137"
+            ],
+            "data_values": [
+                100,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_126": {
         "1": {
             "id": "HunterSkill_126",
             "lvl": 1,
-            "name": null,
-            "explain": null,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_487",
+            "explain": "Improves fishing, grilling, and transporting abilities.",
             "open_skills": [
                 "HunterSkill_126"
             ],
@@ -1125,12 +5594,47 @@
             ]
         }
     },
+    "HunterSkill_162": {
+        "3": {
+            "id": "HunterSkill_162",
+            "lvl": 3,
+            "name": "Honey Hunter",
+            "explain": "Increases the amount of honey you gain from gathering points.",
+            "open_skills": [
+                "HunterSkill_129"
+            ],
+            "data_values": [
+                1,
+                3,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_163": {
+        "3": {
+            "id": "HunterSkill_163",
+            "lvl": 3,
+            "name": "Fleetfoot",
+            "explain": "Increases movement speed while crouching, and makes it easier to escape large monsters' detection.",
+            "open_skills": [
+                "HunterSkill_132",
+                "HunterSkill_133"
+            ],
+            "data_values": [
+                160,
+                120,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_166": {
         "3": {
             "id": "HunterSkill_166",
             "lvl": 3,
             "name": "Master Mounter",
-            "explain": "Makes it easier to mount monsters.",
+            "explain": "Makes it easier to mount monsters and to wound them once mounted.",
             "open_skills": [
                 "HunterSkill_108"
             ],
@@ -1142,11 +5646,28 @@
             ]
         }
     },
+    "HunterSkill_167": {
+        "3": {
+            "id": "HunterSkill_167",
+            "lvl": 3,
+            "name": "Adrenaline",
+            "explain": "Temporarily reduces stamina depletion when health is at 40% or lower.",
+            "open_skills": [
+                "HunterSkill_140"
+            ],
+            "data_values": [
+                90,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_164": {
         "3": {
             "id": "HunterSkill_164",
             "lvl": 3,
-            "name": "Master Gatherer",
+            "name": "Hunter Gatherer",
             "explain": "Increases gathering speed, and prevents knock back when gathering or carving.",
             "open_skills": [
                 "HunterSkill_128"
@@ -1159,12 +5680,29 @@
             ]
         }
     },
+    "HunterSkill_165": {
+        "3": {
+            "id": "HunterSkill_165",
+            "lvl": 3,
+            "name": "Affinity Sliding",
+            "explain": "Increases your affinity temporarily when sliding on terrain.",
+            "open_skills": [
+                "HunterSkill_066"
+            ],
+            "data_values": [
+                30,
+                30,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_168": {
         "3": {
             "id": "HunterSkill_168",
             "lvl": 3,
             "name": "Fortify",
-            "explain": "Increases attack and defense after fainting during a quest. (Can be used twice. Does not apply to some quests)",
+            "explain": "Increases attack and defense after fainting during a quest. (Can be used twice.)",
             "open_skills": [
                 "HunterSkill_101"
             ],
@@ -1176,12 +5714,114 @@
             ]
         }
     },
+    "HunterSkill_169": {
+        "3": {
+            "id": "HunterSkill_169",
+            "lvl": 3,
+            "name": "Diversion",
+            "explain": "Increases the attention drawn to you when attacking a monster.",
+            "open_skills": [
+                "HunterSkill_107"
+            ],
+            "data_values": [
+                200,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_170": {
+        "3": {
+            "id": "HunterSkill_170",
+            "lvl": 3,
+            "name": "Inspiration",
+            "explain": "Temporarily increases attack power when using effects like Melody Effects that affect companions in range.",
+            "open_skills": [
+                "HunterSkill_118"
+            ],
+            "data_values": [
+                20,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_171": {
+        "3": {
+            "id": "HunterSkill_171",
+            "lvl": 3,
+            "name": "Resuscitate",
+            "explain": "Increases attack when inflicted with ailments.",
+            "open_skills": [
+                "HunterSkill_061"
+            ],
+            "data_values": [
+                10,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_172": {
+        "3": {
+            "id": "HunterSkill_172",
+            "lvl": 3,
+            "name": "Wylk Burst",
+            "explain": "Increases recovery speed of stamina and red gauge when near Wylkrystals.",
+            "open_skills": [
+                "HunterSkill_149"
+            ],
+            "data_values": [
+                400,
+                200,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_173": {
+        "3": {
+            "id": "HunterSkill_173",
+            "lvl": 3,
+            "name": "Ward of Wyveria",
+            "explain": "Reduces elemental and unique damage while in the Ruins of Wyveria.",
+            "open_skills": [
+                "HunterSkill_192"
+            ],
+            "data_values": [
+                90,
+                90,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_174": {
+        "3": {
+            "id": "HunterSkill_174",
+            "lvl": 3,
+            "name": "Forager's Luck",
+            "explain": "Increases the chance of finding rare gathering points.",
+            "open_skills": [
+                "HunterSkill_150"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        }
+    },
     "HunterSkill_175": {
         "2": {
             "id": "HunterSkill_175",
             "lvl": 2,
             "name": "Powerhouse I",
-            "explain": "Temporarily increases attack +10 after a successful Power Clash or Offset attack",
+            "explain": "Temporarily grants attack +10 after a successful Power Clash or Offset attack",
             "open_skills": [
                 "HunterSkill_151"
             ],
@@ -1196,13 +5836,446 @@
             "id": "HunterSkill_175",
             "lvl": 4,
             "name": "Powerhouse II",
-            "explain": "Temporarily increases attack +25 after a successful Power Clash or Offset attack",
+            "explain": "Temporarily grants attack +25 after a successful Power Clash or Offset attack",
             "open_skills": [
                 "HunterSkill_151"
             ],
             "data_values": [
                 25,
                 180,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_180": {
+        "2": {
+            "id": "HunterSkill_180",
+            "lvl": 2,
+            "name": "Scorcher I",
+            "explain": "Chance to deal additional fire damage after landing an attack.",
+            "open_skills": [
+                "HunterSkill_156"
+            ],
+            "data_values": [
+                33,
+                24,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_180",
+            "lvl": 4,
+            "name": "Scorcher II",
+            "explain": "Increases additional fire damage after landing an attack.",
+            "open_skills": [
+                "HunterSkill_156"
+            ],
+            "data_values": [
+                33,
+                60,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_187": {
+        "2": {
+            "id": "HunterSkill_187",
+            "lvl": 2,
+            "name": "Second Wind I",
+            "explain": "Grants an additional Stamina Gauge.",
+            "open_skills": [
+                "HunterSkill_161"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_187",
+            "lvl": 4,
+            "name": "Second Wind II",
+            "explain": "Grants an additional long Stamina Gauge.",
+            "open_skills": [
+                "HunterSkill_161"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_181": {
+        "2": {
+            "id": "HunterSkill_181",
+            "lvl": 2,
+            "name": "Flawless Armor I",
+            "explain": "Reduces the damage you take by 5% when your health is full.",
+            "open_skills": [
+                "HunterSkill_157"
+            ],
+            "data_values": [
+                95,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_181",
+            "lvl": 4,
+            "name": "Flawless Armor II",
+            "explain": "Reduces the damage you take by 10% when your health is full.",
+            "open_skills": [
+                "HunterSkill_157"
+            ],
+            "data_values": [
+                90,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_182": {
+        "2": {
+            "id": "HunterSkill_182",
+            "lvl": 2,
+            "name": "War Cry I",
+            "explain": "Using the <BOLD>To Victory!</BOLD> gesture moderately  increases attack temporarily to nearby allies. Greatly effects Palicoes and Support Hunters.",
+            "open_skills": [
+                "HunterSkill_158"
+            ],
+            "data_values": [
+                180,
+                10,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_182",
+            "lvl": 4,
+            "name": "War Cry II",
+            "explain": "Using the <BOLD>To Victory!</BOLD> gesture increases attack temporarily to nearby allies. Greatly effects Palicoes and Support Hunters.",
+            "open_skills": [
+                "HunterSkill_158"
+            ],
+            "data_values": [
+                180,
+                20,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_186": {
+        "2": {
+            "id": "HunterSkill_186",
+            "lvl": 2,
+            "name": "Burst Boost I",
+            "explain": "Extends the duration of the Burst skill and grants attack +3 while Burst is active.",
+            "open_skills": [
+                "HunterSkill_160"
+            ],
+            "data_values": [
+                1,
+                3,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_186",
+            "lvl": 4,
+            "name": "Burst Boost II",
+            "explain": "Further extends the duration of the Burst skill and grants attack +10 while Burst is active.",
+            "open_skills": [
+                "HunterSkill_160"
+            ],
+            "data_values": [
+                2,
+                10,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_188": {
+        "2": {
+            "id": "HunterSkill_188",
+            "lvl": 2,
+            "name": "Protein Fiend I",
+            "explain": "Temporarily grants attack +15 after eating items such as well-done steak.",
+            "open_skills": [
+                "HunterSkill_194"
+            ],
+            "data_values": [
+                120,
+                15,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_188",
+            "lvl": 4,
+            "name": "Protein Fiend II",
+            "explain": "Temporarily grants attack +25 after eating items such as well-done steak.",
+            "open_skills": [
+                "HunterSkill_194"
+            ],
+            "data_values": [
+                120,
+                25,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_177": {
+        "2": {
+            "id": "HunterSkill_177",
+            "lvl": 2,
+            "name": "Protective Veil I",
+            "explain": "Increases defense temporarily when using a specialized tool.",
+            "open_skills": [
+                "HunterSkill_153"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_177",
+            "lvl": 4,
+            "name": "Protective Veil II",
+            "explain": "Greatly increases defense and resistance temporarily when using a specialized tool.",
+            "open_skills": [
+                "HunterSkill_153"
+            ],
+            "data_values": [
+                50,
+                12,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_176": {
+        "2": {
+            "id": "HunterSkill_176",
+            "lvl": 2,
+            "name": "Thunderous Roar I",
+            "explain": "Moderately extends the activation time of the Latent Power skill.",
+            "open_skills": [
+                "HunterSkill_152"
+            ],
+            "data_values": [
+                30,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_176",
+            "lvl": 4,
+            "name": "Thunderous Roar II",
+            "explain": "Extends the activation time of the Latent Power skill.",
+            "open_skills": [
+                "HunterSkill_152"
+            ],
+            "data_values": [
+                90,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_178": {
+        "2": {
+            "id": "HunterSkill_178",
+            "lvl": 2,
+            "name": "Bad Blood I",
+            "explain": "Deals moderate additional damage while the Resentment skill is active.",
+            "open_skills": [
+                "HunterSkill_154"
+            ],
+            "data_values": [
+                18,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_178",
+            "lvl": 4,
+            "name": "Bad Blood II",
+            "explain": "Deals additional damage while the Resentment skill is active.",
+            "open_skills": [
+                "HunterSkill_154"
+            ],
+            "data_values": [
+                40,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_179": {
+        "2": {
+            "id": "HunterSkill_179",
+            "lvl": 2,
+            "name": "Binding Counter I",
+            "explain": "Increases attack after recovering from webbed status, frostblight, being pinned, or a Power Clash.",
+            "open_skills": [
+                "HunterSkill_155"
+            ],
+            "data_values": [
+                60,
+                25,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_179",
+            "lvl": 4,
+            "name": "Binding Counter II",
+            "explain": "Greatly increases attack after recovering from webbed status, frostblight, being pinned, or a Power Clash.",
+            "open_skills": [
+                "HunterSkill_155"
+            ],
+            "data_values": [
+                60,
+                50,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_183": {
+        "2": {
+            "id": "HunterSkill_183",
+            "lvl": 2,
+            "name": "Black Eclipse I",
+            "explain": "Infects you with Frenzy when against large monsters.",
+            "open_skills": [
+                "HunterSkill_196"
+            ],
+            "data_values": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_183",
+            "lvl": 4,
+            "name": "Black Eclipse II",
+            "explain": "Infects you with Frenzy and raises attack when against large monsters. Attack power increases upon recovery.",
+            "open_skills": [
+                "HunterSkill_196"
+            ],
+            "data_values": [
+                10,
+                15,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_184": {
+        "2": {
+            "id": "HunterSkill_184",
+            "lvl": 2,
+            "name": "Decimator I",
+            "explain": "Restores a moderate amount of health when destroying a wound on a large monster.",
+            "open_skills": [
+                "HunterSkill_193"
+            ],
+            "data_values": [
+                25,
+                0,
+                0,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_184",
+            "lvl": 4,
+            "name": "Decimator II",
+            "explain": "Restores health when destroying a wound on a large monster.",
+            "open_skills": [
+                "HunterSkill_193"
+            ],
+            "data_values": [
+                50,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "HunterSkill_185": {
+        "2": {
+            "id": "HunterSkill_185",
+            "lvl": 2,
+            "name": "Hasten Recovery I",
+            "explain": "Regenerates a small amount of your health as you continually attack a monster. Recovery varies by weapon.",
+            "open_skills": [
+                "HunterSkill_143"
+            ],
+            "data_values": [
+                3,
+                6,
+                14,
+                0
+            ]
+        },
+        "4": {
+            "id": "HunterSkill_185",
+            "lvl": 4,
+            "name": "Hasten Recovery II",
+            "explain": "Regenerates your health as you continually attack a monster. Recovery varies by weapon.",
+            "open_skills": [
+                "HunterSkill_143"
+            ],
+            "data_values": [
+                5,
+                10,
+                20,
+                0
+            ]
+        }
+    },
+    "HunterSkill_199": {
+        "1": {
+            "id": "HunterSkill_199",
+            "lvl": 1,
+            "name": "<span style=\"color:OR FF0000>#Rejected#</COLOR> Skill_481",
+            "explain": "Lets you use exhaust coatings.",
+            "open_skills": [
+                "HunterSkill_199"
+            ],
+            "data_values": [
+                0,
+                0,
                 0,
                 0
             ]

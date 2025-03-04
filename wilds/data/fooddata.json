@@ -56,7 +56,7 @@
             ]
         },
         "ITEM_0240": {
-            "item": null,
+            "item": "Sharp Kunafa Cheese",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -64,7 +64,7 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_004",
-            "meal_skill_name": null,
+            "meal_skill_name": "Defender Meal (Hi)",
             "random_table": [
                 "TBL1"
             ]
@@ -84,7 +84,7 @@
             ]
         },
         "ITEM_0242": {
-            "item": null,
+            "item": "Delishroom",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -92,7 +92,7 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_006",
-            "meal_skill_name": null,
+            "meal_skill_name": "Black Belt Meal (Hi)",
             "random_table": [
                 "TBL1"
             ]
@@ -112,7 +112,7 @@
             ]
         },
         "ITEM_0244": {
-            "item": null,
+            "item": "Turbid Shrimp",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -120,13 +120,13 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_008",
-            "meal_skill_name": null,
+            "meal_skill_name": "Tumbler Meal (Hi)",
             "random_table": [
                 "TBL1"
             ]
         },
         "ITEM_0245": {
-            "item": null,
+            "item": "Fluffy Egg",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -134,13 +134,13 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_011",
-            "meal_skill_name": null,
+            "meal_skill_name": "Caprice Meal (Lo)",
             "random_table": [
                 "TBL0"
             ]
         },
         "ITEM_0246": {
-            "item": null,
+            "item": "Airy Egg",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -148,13 +148,13 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_012",
-            "meal_skill_name": null,
+            "meal_skill_name": "Caprice Meal (Hi)",
             "random_table": [
                 "TBL1"
             ]
         },
         "ITEM_0247": {
-            "item": null,
+            "item": "Sild Garlic",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -162,13 +162,13 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_009",
-            "meal_skill_name": null,
+            "meal_skill_name": "Moxie Meal (Lo)",
             "random_table": [
                 "TBL0"
             ]
         },
         "ITEM_0248": {
-            "item": null,
+            "item": "Specialty Sild Garlic",
             "time": 20,
             "health": 0,
             "stamina": 0,
@@ -176,7 +176,7 @@
             "defence": 0,
             "attr_resist": 0,
             "meal_skills": "SKILL_010",
-            "meal_skill_name": null,
+            "meal_skill_name": "Moxie Meal (Hi)",
             "random_table": [
                 "TBL1"
             ]
@@ -226,7 +226,7 @@
             ]
         },
         "ITEM_0252": {
-            "item": null,
+            "item": "Jeweled Mullet Roe",
             "time": 0,
             "health": 0,
             "stamina": 0,
@@ -234,13 +234,13 @@
             "defence": 0,
             "attr_resist": 5,
             "meal_skills": "SKILL_016",
-            "meal_skill_name": null,
+            "meal_skill_name": "Swimmer Meal",
             "random_table": [
                 "TBL0"
             ]
         },
         "ITEM_0253": {
-            "item": null,
+            "item": "Wild Seed Oil",
             "time": 0,
             "health": 0,
             "stamina": 0,
@@ -248,13 +248,13 @@
             "defence": 0,
             "attr_resist": 5,
             "meal_skills": "SKILL_017",
-            "meal_skill_name": null,
+            "meal_skill_name": "Specialist Meal",
             "random_table": [
                 "TBL0"
             ]
         },
         "ITEM_0254": {
-            "item": null,
+            "item": "Truffle Du Conga",
             "time": 0,
             "health": 0,
             "stamina": 0,
@@ -262,7 +262,7 @@
             "defence": 0,
             "attr_resist": 5,
             "meal_skills": "SKILL_018",
-            "meal_skill_name": null,
+            "meal_skill_name": "Gatherer Meal",
             "random_table": [
                 "TBL0"
             ]
